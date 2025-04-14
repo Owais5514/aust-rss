@@ -174,8 +174,8 @@ def generate_rss_feed(notices, existing_guids, filename):
     root = ET.Element("rss", version="2.0", attrib={"xmlns:atom": "http://www.w3.org/2005/Atom"})
     channel = ET.SubElement(root, "channel")
 
-    # !!! Remember to replace <YOUR_USERNAME> and <YOUR_REPOSITORY> !!!
-    gh_pages_url = f"https://<YOUR_USERNAME>.github.io/<YOUR_REPOSITORY>/{filename}" # <-- UPDATE THIS
+    # GitHub Pages URL for the RSS feed
+    gh_pages_url = f"https://Owais5514.github.io/AUST-rss/{filename}"
     atom_link = ET.SubElement(channel, "atom:link", href=gh_pages_url, rel="self", type="application/rss+xml")
 
     ET.SubElement(channel, "title").text = FEED_TITLE
