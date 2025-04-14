@@ -27,7 +27,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run script to generate RSS feed
-        run: python generate_rss.py
+        run: python generate-rss.py
 
       - name: Commit and push if feed changed
         run: |
