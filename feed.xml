@@ -5,7 +5,11 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 14 Apr 2025 14:20:29 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Mon, 14 Apr 2025 14:17:59 +0000</lastBuildDate>
+>>>>>>> 556b3e1c964e21592a6bcf544299a11dd9071dd2
     <generator>Python RSS Generator Script</generator>
     <version>1.0.20250414.142029</version>
     <item>
