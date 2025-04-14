@@ -2,8 +2,13 @@ name: Generate AUST Notice RSS Feed
 
 on:
   schedule:
-    # Runs every hour at the beginning of the hour
-    - cron: '0 * * * *'
+    # Bangladesh time (UTC+6) schedule:
+    # 8 AM - 12 PM: Run hourly (2-6 UTC)
+    - cron: '0 2-6 * * *'
+    # 7 PM - 12 AM: Run hourly (13-18 UTC)
+    - cron: '0 13-18 * * *'
+    # In between: Run every 3 hours (9,12 UTC)
+    - cron: '0 9,12 * * *'
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 permissions:

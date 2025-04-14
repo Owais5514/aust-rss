@@ -8,6 +8,21 @@ import os
 import hashlib
 from urllib.parse import urljoin
 import locale # For parsing month names potentially
+import sys
+import json
+import time
+import logging
+
+# --- Logging Configuration ---
+LOG_FILE = "rss_generator.log"
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler()
+    ]
+)
 
 # --- Configuration ---
 NOTICE_URL = "https://aust.edu/notice"
@@ -32,35 +47,134 @@ except locale.Error:
     try:
         locale.setlocale(locale.LC_TIME, 'English_United States.1252') # Windows fallback
     except locale.Error:
-        print("Warning: Could not set locale for month name parsing. Ensure system locale supports 'en_US'.")
+        logging.warning("Could not set locale for month name parsing. Ensure system locale supports 'en_US'.")
 # --- End Configuration ---
 
 # Define the local timezone (Bangladesh Standard Time = UTC+6)
 LOCAL_TIMEZONE = timezone(timedelta(hours=6))
 
+# Cache file for storing the last check's content hash
+CACHE_FILE = "notice_cache.json"
+
+def check_for_new_content():
+    """Checks if there are new notices by comparing page content hash with previous run.
+    Returns True if new content is available or cache doesn't exist, False otherwise."""
+    
+    # Check if we need to force a refresh (weekly)
+    force_refresh = False
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, 'r') as f:
+                cache = json.load(f)
+                if 'last_check' in cache:
+                    last_check = datetime.fromisoformat(cache['last_check'])
+                    now = datetime.now(timezone.utc)
+                    # Force refresh if last check was more than 7 days ago
+                    if (now - last_check).days >= 7:
+                        logging.info("Performing weekly forced refresh regardless of content change")
+                        force_refresh = True
+        except (json.JSONDecodeError, IOError, ValueError) as e:
+            logging.warning(f"Could not check last refresh time: {e}")
+            
+    if force_refresh:
+        return True
+        
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        # Try to load previously saved ETag/hash
+        cache = {}
+        if os.path.exists(CACHE_FILE):
+            try:
+                with open(CACHE_FILE, 'r') as f:
+                    cache = json.load(f)
+                    
+                # If we have a Last-Modified, use it for conditional request
+                if 'last_modified' in cache:
+                    headers['If-Modified-Since'] = cache['last_modified']
+            except (json.JSONDecodeError, IOError) as e:
+                logging.warning(f"Could not load cache file: {e}")
+        
+        response = requests.get(NOTICE_URL, headers=headers, timeout=15)
+        
+        # If the server responds with 304 Not Modified, content hasn't changed
+        if response.status_code == 304:
+            logging.info("Content not modified since last check")
+            return False
+            
+        # If the request was successful, check content hash
+        if response.status_code == 200:
+            content_hash = hashlib.md5(response.content).hexdigest()
+            
+            # If we have a previous hash and it matches, no new content
+            if 'content_hash' in cache and cache['content_hash'] == content_hash:
+                logging.info("Content hash matches previous check, no new notices")
+                return False
+                
+            # Save new hash and headers for next time
+            new_cache = {
+                'content_hash': content_hash,
+                'last_check': datetime.now(timezone.utc).isoformat()
+            }
+            
+            # Save Last-Modified header if present
+            if 'Last-Modified' in response.headers:
+                new_cache['last_modified'] = response.headers['Last-Modified']
+                
+            try:
+                with open(CACHE_FILE, 'w') as f:
+                    json.dump(new_cache, f)
+            except IOError as e:
+                logging.warning(f"Could not save cache file: {e}")
+                
+            logging.info("New content detected, will process notices")
+            return True
+            
+        # For any other response code, assume we should check (to be safe)
+        logging.warning(f"Unexpected response code {response.status_code}, proceeding with check")
+        return True
+        
+    except Exception as e:
+        logging.error(f"Error checking for new content: {e}")
+        # If any error occurs, proceed with processing to be safe
+        return True
+
+
 def fetch_notices():
     """Fetches and parses notices from the AUST notice page."""
-    print(f"Fetching notices from {NOTICE_URL}")
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        response = requests.get(NOTICE_URL, headers=headers, timeout=30)
-        response.raise_for_status()
-        print(f"Successfully fetched page. Status code: {response.status_code}")
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching URL {NOTICE_URL}: {e}")
-        return []
+    logging.info(f"Fetching notices from {NOTICE_URL}")
+    max_retries = 3
+    retry_delay = 5  # seconds
+    
+    for attempt in range(max_retries):
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+            response = requests.get(NOTICE_URL, headers=headers, timeout=30)
+            response.raise_for_status()
+            logging.info(f"Successfully fetched page. Status code: {response.status_code}")
+            break  # Success, exit the retry loop
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                wait_time = retry_delay * (attempt + 1)
+                logging.warning(f"Error fetching URL {NOTICE_URL}: {e}. Retrying in {wait_time} seconds... (Attempt {attempt+1}/{max_retries})")
+                time.sleep(wait_time)
+            else:
+                logging.error(f"Error fetching URL {NOTICE_URL} after {max_retries} attempts: {e}")
+                return []
 
-    print(f"Parsing HTML content using lxml...")
+    logging.info(f"Parsing HTML content using lxml...")
     soup = BeautifulSoup(response.content, 'lxml')
 
-    print(f"Looking for notice elements using selector: '{NOTICE_SELECTOR}'")
+    logging.info(f"Looking for notice elements using selector: '{NOTICE_SELECTOR}'")
     notice_elements = soup.select(NOTICE_SELECTOR)
 
     if not notice_elements:
-        print(f"Error: No notice elements found using selector '{NOTICE_SELECTOR}'.")
+        logging.error(f"No notice elements found using selector '{NOTICE_SELECTOR}'.")
         return []
 
-    print(f"Found {len(notice_elements)} potential notice elements.")
+    logging.info(f"Found {len(notice_elements)} potential notice elements.")
     notices = []
 
     for element in notice_elements:
@@ -102,7 +216,7 @@ def fetch_notices():
             
             # Combine the components into a single date string
             date_str = f"{month_str} {day_str} {year_str}"
-            print(f"  Assembled date string: '{date_str}' for title '{title}'")
+            logging.info(f"  Assembled date string: '{date_str}' for title '{title}'")
             
             try:
                 # Parse the combined date string using the specified format
@@ -111,26 +225,27 @@ def fetch_notices():
                 aware_local_dt = local_dt.replace(tzinfo=LOCAL_TIMEZONE)
                 # Convert to UTC for consistency
                 pub_date = aware_local_dt.astimezone(timezone.utc)
-                print(f"    Successfully parsed date: {pub_date}")
+                logging.info(f"    Successfully parsed date: {pub_date}")
             except ValueError as date_err:
-                print(f"    ERROR: Could not parse date string '{date_str}' with format '{DATE_FORMAT}'. Error: {date_err}")
+                logging.error(f"    Could not parse date string '{date_str}' with format '{DATE_FORMAT}'. Error: {date_err}")
                 # Fallback handled below
         else:
             missing = []
             if not day_tag: missing.append("day")
             if not month_tag: missing.append("month")
             if not year_tag: missing.append("year")
-            print(f"  Warning: Could not find date components: {', '.join(missing)} for title '{title}'")
+            logging.warning(f"  Could not find date components: {', '.join(missing)} for title '{title}'")
 
         # Fallback to current time in UTC if date parsing failed
         if pub_date is None:
             pub_date = datetime.now(timezone.utc)
-            print(f"    Using current UTC time as fallback pubDate: {pub_date}")
+            logging.info(f"    Using current UTC time as fallback pubDate: {pub_date}")
+
         # ### DATE EXTRACTION END ###
 
         if title:
             description = summary if summary else title
-            print(f"  -> Found notice: Title='{title}', Link='{link}', Date='{pub_date}', GUID='{guid}'")
+            logging.info(f"  -> Found notice: Title='{title}', Link='{link}', Date='{pub_date}', GUID='{guid}'")
             notices.append({
                 'title': title,
                 'link': link,
@@ -140,9 +255,9 @@ def fetch_notices():
                 'description': description
             })
         else:
-             print(f"Warning: Skipping element as no title could be extracted using '{TITLE_SELECTOR}'")
+             logging.warning(f"Skipping element as no title could be extracted using '{TITLE_SELECTOR}'")
 
-    print(f"Finished parsing. Extracted {len(notices)} valid notices.")
+    logging.info(f"Finished parsing. Extracted {len(notices)} valid notices.")
     return notices
 
 
@@ -150,10 +265,10 @@ def load_existing_feed_guids(filename):
     """Loads GUIDs from an existing RSS feed file."""
     existing_guids = set()
     if not os.path.exists(filename):
-        print(f"No existing feed file found at {filename}. Starting fresh.")
+        logging.info(f"No existing feed file found at {filename}. Starting fresh.")
         return existing_guids
 
-    print(f"Loading existing GUIDs from {filename}...")
+    logging.info(f"Loading existing GUIDs from {filename}...")
     try:
         tree = ET.parse(filename)
         root = tree.getroot()
@@ -161,16 +276,16 @@ def load_existing_feed_guids(filename):
             guid = item.find('guid')
             if guid is not None and guid.text:
                 existing_guids.add(guid.text)
-        print(f"Loaded {len(existing_guids)} existing GUIDs.")
+        logging.info(f"Loaded {len(existing_guids)} existing GUIDs.")
     except ET.ParseError as e:
-        print(f"Warning: Could not parse existing feed file {filename}. Error: {e}. Starting fresh.")
+        logging.warning(f"Could not parse existing feed file {filename}. Error: {e}. Starting fresh.")
     except FileNotFoundError:
-         print(f"File {filename} not found error during parsing. Starting fresh.")
+         logging.warning(f"File {filename} not found error during parsing. Starting fresh.")
     return existing_guids
 
 def generate_rss_feed(notices, existing_guids, filename):
     """Generates and saves the RSS feed XML file."""
-    print("Generating new RSS feed...")
+    logging.info("Generating new RSS feed...")
     root = ET.Element("rss", version="2.0", attrib={"xmlns:atom": "http://www.w3.org/2005/Atom"})
     channel = ET.SubElement(root, "channel")
 
@@ -195,11 +310,11 @@ def generate_rss_feed(notices, existing_guids, filename):
             combined_items_data.append(notice)
             new_items_added += 1
 
-    print(f"Adding {new_items_added} new item(s) based on GUID comparison.")
+    logging.info(f"Adding {new_items_added} new item(s) based on GUID comparison.")
 
     num_old_items_to_add = MAX_FEED_ITEMS - new_items_added
     if num_old_items_to_add > 0 and os.path.exists(filename):
-        print(f"Loading max {num_old_items_to_add} old items from existing feed...")
+        logging.info(f"Loading max {num_old_items_to_add} old items from existing feed...")
         try:
             tree = ET.parse(filename)
             old_root = tree.getroot()
@@ -223,16 +338,16 @@ def generate_rss_feed(notices, existing_guids, filename):
                              try: # Fallback without timezone
                                  old_notice_data['pub_date'] = datetime.strptime(pub_date_elem.text, "%a, %d %b %Y %H:%M:%S").replace(tzinfo=timezone.utc)
                              except ValueError:
-                                 print(f"Warning: Could not parse old date '{pub_date_elem.text}' for GUID {guid_elem.text}. Using current time.")
+                                 logging.warning(f"Could not parse old date '{pub_date_elem.text}' for GUID {guid_elem.text}. Using current time.")
                      combined_items_data.append(old_notice_data)
                      loaded_old_items += 1
                      if loaded_old_items >= num_old_items_to_add:
                          break
-            print(f"Added {loaded_old_items} old items.")
+            logging.info(f"Added {loaded_old_items} old items.")
         except (ET.ParseError, FileNotFoundError) as e:
-             print(f"Could not parse or find old feed to append items. Error: {e}.")
+             logging.warning(f"Could not parse or find old feed to append items. Error: {e}.")
 
-    print(f"Sorting {len(combined_items_data)} combined items by publication date (newest first)...")
+    logging.info(f"Sorting {len(combined_items_data)} combined items by publication date (newest first)...")
     combined_items_data.sort(key=lambda x: x['pub_date'], reverse=True) # Sort by datetime objects
 
     items_added_to_xml = 0
@@ -246,34 +361,38 @@ def generate_rss_feed(notices, existing_guids, filename):
         ET.SubElement(item, "guid", isPermaLink=str(item_data['is_permalink']).lower()).text = item_data['guid']
         items_added_to_xml +=1
 
-    print(f"Added {items_added_to_xml} total items to the feed XML.")
+    logging.info(f"Added {items_added_to_xml} total items to the feed XML.")
 
     xml_str = ET.tostring(root, encoding='utf-8', method='xml')
     try:
         pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="  ", encoding='utf-8')
     except Exception as parse_err:
-        print(f"Warning: Could not prettify XML output using minidom. Error: {parse_err}. Saving raw XML.")
+        logging.warning(f"Could not prettify XML output using minidom. Error: {parse_err}. Saving raw XML.")
         pretty_xml_str = xml_str
 
     try:
         with open(filename, "wb") as f:
             f.write(pretty_xml_str)
-        print(f"RSS feed successfully generated and saved to {filename}")
+        logging.info(f"RSS feed successfully generated and saved to {filename}")
     except IOError as e:
-        print(f"Error writing RSS feed file {filename}: {e}")
+        logging.error(f"Error writing RSS feed file {filename}: {e}")
 
 
 if __name__ == "__main__":
     start_time = datetime.now()
-    print(f"[{start_time}] Starting AUST notice scraping process...")
-    print(f"Local time: {start_time.strftime('%Y-%m-%d %H:%M:%S %Z%z')} (Timezone Offset: {LOCAL_TIMEZONE})")
-    fetched_notices = fetch_notices()
-    if fetched_notices or os.path.exists(RSS_FILENAME):
-        current_guids = load_existing_feed_guids(RSS_FILENAME)
-        generate_rss_feed(fetched_notices, current_guids, RSS_FILENAME)
-    else:
-        if not fetched_notices and not os.path.exists(RSS_FILENAME):
-            print("No notices fetched and no existing feed file found. RSS feed generation skipped.")
-
-    end_time = datetime.now()
-    print(f"[{end_time}] Process finished. Duration: {end_time - start_time}")
+    logging.info(f"Starting AUST notice scraping process...")
+    logging.info(f"Local time: {start_time.strftime('%Y-%m-%d %H:%M:%S %Z%z')} (Timezone Offset: {LOCAL_TIMEZONE})")
+    try:
+        if check_for_new_content():
+            fetched_notices = fetch_notices()
+            if fetched_notices or os.path.exists(RSS_FILENAME):
+                current_guids = load_existing_feed_guids(RSS_FILENAME)
+                generate_rss_feed(fetched_notices, current_guids, RSS_FILENAME)
+            else:
+                if not fetched_notices and not os.path.exists(RSS_FILENAME):
+                    logging.warning("No notices fetched and no existing feed file found. RSS feed generation skipped.")
+        end_time = datetime.now()
+        logging.info(f"Process finished. Duration: {end_time - start_time}")
+    except Exception as e:
+        logging.error(f"Unexpected error during execution: {e}", exc_info=True)
+        sys.exit(1)
