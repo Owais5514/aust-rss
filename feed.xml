@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <atom:link href="https://&lt;YOUR_USERNAME&gt;.github.io/&lt;YOUR_REPOSITORY&gt;/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://Owais5514.github.io/AUST-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Mon, 14 Apr 2025 14:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 14:50:03 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250414.142906</version>
+    <version>1.0.20250414.145003</version>
     <item>
       <title>Notice regarding examination of 13 April 2025</title>
       <link>https://aust.edu/notice/2816</link>
