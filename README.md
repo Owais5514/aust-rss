@@ -1,2 +1,2 @@
 # AUST-rss
-Extracting notice from aust .edu 
+Extracting notice from aust.edu/notice

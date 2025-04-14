@@ -14,9 +14,11 @@ NOTICE_URL = "https://aust.edu/notice"
 NOTICE_SELECTOR = "div.card-info"         # Container for each notice item
 TITLE_SELECTOR = "h6.news_title_homepage" # Specific selector for the title
 SUMMARY_SELECTOR = "p.news_excerpt"       # Specific selector for the summary
-DATE_SELECTOR = "p.day"                   # Specific selector for the date element
-# !!! --- DATE FORMAT - Updated based on your input --- !!!
-DATE_FORMAT = "%b %d %Y" # <-- *** Updated to match "Apr 12 2025" format ***
+DAY_SELECTOR = "p.day"                    # Selector for the day part of the date
+MONTH_SELECTOR = "p.month"                # Selector for the month part of the date
+YEAR_SELECTOR = "p.year"                  # Selector for the year part of the date
+# !!! --- DATE FORMAT - Updated based on website structure --- !!!
+DATE_FORMAT = "%b %d %Y" # <-- Format after components are combined
 # --- End User-Provided Selectors ---
 RSS_FILENAME = "feed.xml"
 MAX_FEED_ITEMS = 50
@@ -87,29 +89,38 @@ def fetch_notices():
 
         # ### DATE EXTRACTION START ###
         pub_date = None
-        if DATE_SELECTOR:
-            date_tag = element.select_one(DATE_SELECTOR)
-            if date_tag:
-                date_str = date_tag.get_text(strip=True)
-                print(f"  Attempting to parse date string: '{date_str}' using format '{DATE_FORMAT}' for title '{title}'")
-                if not date_str:
-                     print(f"    Warning: Date tag found but text content is empty.")
-                else:
-                    try:
-                        # Parse the date string using the specified format
-                        local_dt = datetime.strptime(date_str, DATE_FORMAT)
-                        # Assume the parsed date is in the local timezone (Dhaka UTC+6)
-                        aware_local_dt = local_dt.replace(tzinfo=LOCAL_TIMEZONE)
-                        # Convert to UTC for consistency
-                        pub_date = aware_local_dt.astimezone(timezone.utc)
-                        print(f"    Successfully parsed date: {pub_date}")
-                    except ValueError as date_err:
-                        print(f"    ERROR: Could not parse date string '{date_str}' with format '{DATE_FORMAT}'. Error: {date_err}")
-                        # Fallback handled below
-            else:
-                print(f"  Warning: Date element not found using selector '{DATE_SELECTOR}' for title '{title}'")
+        
+        # Extract day, month, and year separately
+        day_tag = element.select_one(DAY_SELECTOR)
+        month_tag = element.select_one(MONTH_SELECTOR)
+        year_tag = element.select_one(YEAR_SELECTOR)
+        
+        if day_tag and month_tag and year_tag:
+            day_str = day_tag.get_text(strip=True)
+            month_str = month_tag.get_text(strip=True)
+            year_str = year_tag.get_text(strip=True)
+            
+            # Combine the components into a single date string
+            date_str = f"{month_str} {day_str} {year_str}"
+            print(f"  Assembled date string: '{date_str}' for title '{title}'")
+            
+            try:
+                # Parse the combined date string using the specified format
+                local_dt = datetime.strptime(date_str, DATE_FORMAT)
+                # Assume the parsed date is in the local timezone (Dhaka UTC+6)
+                aware_local_dt = local_dt.replace(tzinfo=LOCAL_TIMEZONE)
+                # Convert to UTC for consistency
+                pub_date = aware_local_dt.astimezone(timezone.utc)
+                print(f"    Successfully parsed date: {pub_date}")
+            except ValueError as date_err:
+                print(f"    ERROR: Could not parse date string '{date_str}' with format '{DATE_FORMAT}'. Error: {date_err}")
+                # Fallback handled below
         else:
-            print("  Warning: DATE_SELECTOR is not set (This shouldn't happen).")
+            missing = []
+            if not day_tag: missing.append("day")
+            if not month_tag: missing.append("month")
+            if not year_tag: missing.append("year")
+            print(f"  Warning: Could not find date components: {', '.join(missing)} for title '{title}'")
 
         # Fallback to current time in UTC if date parsing failed
         if pub_date is None:
@@ -172,6 +183,9 @@ def generate_rss_feed(notices, existing_guids, filename):
     ET.SubElement(channel, "description").text = FEED_DESCRIPTION
     ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     ET.SubElement(channel, "generator").text = "Python RSS Generator Script"
+    # Add a version element that changes with each run using the current timestamp
+    current_timestamp = datetime.now().strftime("%Y%m%d.%H%M%S")
+    ET.SubElement(channel, "version").text = f"1.0.{current_timestamp}"
 
     combined_items_data = []
     new_items_added = 0
