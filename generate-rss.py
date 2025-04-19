@@ -357,7 +357,7 @@ def generate_rss_feed(notices, existing_guids, filename):
         ET.SubElement(item, "link").text = item_data['link']
         ET.SubElement(item, "description").text = item_data['description']
         # Format pubDate according to RFC 822 for RSS output
-        ET.SubElement(item, "pubDate").text = item_data['pub_date'].strftime("%a, %d %b %Y %H:%M:%S %z")
+        ET.SubElement(item, "pubDate").text = item_data['pub_date'].strftime("%a, %d %b %Y %H:%M:%S %z") # Reverted to include time and timezone
         ET.SubElement(item, "guid", isPermaLink=str(item_data['is_permalink']).lower()).text = item_data['guid']
         items_added_to_xml +=1
 
@@ -383,14 +383,38 @@ if __name__ == "__main__":
     logging.info(f"Starting AUST notice scraping process...")
     logging.info(f"Local time: {start_time.strftime('%Y-%m-%d %H:%M:%S %Z%z')} (Timezone Offset: {LOCAL_TIMEZONE})")
     try:
-        if check_for_new_content():
-            fetched_notices = fetch_notices()
-            if fetched_notices or os.path.exists(RSS_FILENAME):
-                current_guids = load_existing_feed_guids(RSS_FILENAME)
-                generate_rss_feed(fetched_notices, current_guids, RSS_FILENAME)
+        # 1. Fetch notices first
+        fetched_notices = fetch_notices()
+
+        # If fetching failed or returned no notices, we might still need to check if the file exists
+        # but we primarily care about comparing fetched notices to existing ones.
+
+        # 2. Load existing GUIDs
+        current_guids = load_existing_feed_guids(RSS_FILENAME)
+
+        # 3. Determine if there are new notices by comparing fetched GUIDs to existing ones
+        new_notices_found = False
+        if fetched_notices: # Check if fetching returned any notices
+            for notice in fetched_notices:
+                if notice['guid'] not in current_guids:
+                    new_notices_found = True
+                    logging.info(f"New notice found: GUID {notice['guid']} Title: {notice['title']}")
+                    # No need to log all new ones here, just need to know if at least one exists
+                    break 
+
+        # 4. Generate feed ONLY if new notices were found
+        if new_notices_found:
+            logging.info("New notices detected based on GUID comparison. Generating updated RSS feed.")
+            # Pass the already fetched notices and loaded GUIDs
+            generate_rss_feed(fetched_notices, current_guids, RSS_FILENAME)
+        else:
+            # Log why we are skipping
+            if not fetched_notices:
+                 logging.info("No notices were fetched from the source URL.")
             else:
-                if not fetched_notices and not os.path.exists(RSS_FILENAME):
-                    logging.warning("No notices fetched and no existing feed file found. RSS feed generation skipped.")
+                 logging.info("No new notices found based on GUID comparison with the existing feed.")
+            logging.info("RSS feed generation skipped.")
+
         end_time = datetime.now()
         logging.info(f"Process finished. Duration: {end_time - start_time}")
     except Exception as e:
