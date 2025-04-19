@@ -4,11 +4,7 @@ An automated system that scrapes the Ahsanullah University of Science and Techno
 
 ## Overview
 
-This project automatically checks the AUST notice board for new notices and generates an RSS feed that users can subscribe to. The system runs on a schedule optimized for Bangladesh time:
-
-- 8 AM - 12 PM: Hourly checks
-- 1 PM - 6 PM: Every 3 hours
-- 7 PM - 12 AM: Hourly checks
+This project automatically checks the AUST notice board for new notices and generates an RSS feed that users can subscribe to. The system runs automatically every 3 hours using GitHub Actions.
 
 ## Features
 
