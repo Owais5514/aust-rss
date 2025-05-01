@@ -5,9 +5,16 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Wed, 30 Apr 2025 18:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 15:18:59 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250430.182604</version>
+    <version>1.0.20250501.151859</version>
+    <item>
+      <title>Notification: 12th Convocation Costume Distribution Schedule</title>
+      <link>https://aust.edu/notice/2836</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 30 Apr 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2836</guid>
+    </item>
     <item>
       <title>Office Order</title>
       <link>https://aust.edu/notice/2835</link>
@@ -350,13 +357,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Mon, 10 Feb 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2739</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
-      <link>https://aust.edu/notice/2738</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Mon, 10 Feb 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2738</guid>
     </item>
   </channel>
 </rss>
