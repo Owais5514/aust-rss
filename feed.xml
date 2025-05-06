@@ -5,9 +5,16 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Mon, 05 May 2025 09:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 09:20:13 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250505.092012</version>
+    <version>1.0.20250506.092013</version>
+    <item>
+      <title>Selected Candidates for Admission into the MS in Mathematics...</title>
+      <link>https://aust.edu/notice/2840</link>
+      <description>The admission interviews of the applican...Read More</description>
+      <pubDate>Mon, 05 May 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2840</guid>
+    </item>
     <item>
       <title>Notification (Bouddha Purnima)</title>
       <link>https://aust.edu/notice/2839</link>
@@ -350,13 +357,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Wed, 12 Feb 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2742</guid>
-    </item>
-    <item>
-      <title>Academic Calendar - Spring 2024 (Revised)</title>
-      <link>https://aust.edu/notice/2741</link>
-      <description>OFFICE ORDER As per decision of the 7th ...Read More</description>
-      <pubDate>Mon, 10 Feb 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2741</guid>
     </item>
   </channel>
 </rss>
