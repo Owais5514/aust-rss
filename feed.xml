@@ -5,9 +5,16 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Thu, 08 May 2025 12:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 15:20:25 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250508.123750</version>
+    <version>1.0.20250508.152025</version>
+    <item>
+      <title>PhD Positions in Circular Economy and Sustainable Innovation...</title>
+      <link>https://aust.edu/notice/2844</link>
+      <description>Aalborg University Business School (AAUB...Read More</description>
+      <pubDate>Wed, 07 May 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2844</guid>
+    </item>
     <item>
       <title>প্রজ্ঞাপন</title>
       <link>https://aust.edu/notice/2843</link>
@@ -350,13 +357,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Sat, 15 Feb 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2749</guid>
-    </item>
-    <item>
-      <title>Office Order - Tuition Award (FF Quota)</title>
-      <link>https://aust.edu/notice/2746</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sat, 15 Feb 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2746</guid>
     </item>
   </channel>
 </rss>
