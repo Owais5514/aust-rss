@@ -5,9 +5,16 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Thu, 08 May 2025 09:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 12:37:50 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250508.092004</version>
+    <version>1.0.20250508.123750</version>
+    <item>
+      <title>প্রজ্ঞাপন</title>
+      <link>https://aust.edu/notice/2843</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 07 May 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2843</guid>
+    </item>
     <item>
       <title>Research Assistant Job Circular</title>
       <link>https://aust.edu/notice/2842</link>
@@ -350,13 +357,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Sat, 15 Feb 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2746</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://aust.edu/notice/2750</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 12 Feb 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2750</guid>
     </item>
   </channel>
 </rss>
