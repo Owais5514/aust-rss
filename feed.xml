@@ -5,9 +5,16 @@
     <title>AUST Notice Board Updates</title>
     <link>https://aust.edu/notice</link>
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
-    <lastBuildDate>Thu, 08 May 2025 15:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 21:15:19 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250508.152025</version>
+    <version>1.0.20250510.211519</version>
+    <item>
+      <title>Notice for the participating graduates of the 12th Convocati...</title>
+      <link>https://aust.edu/notice/2845</link>
+      <description>The participating graduates (registered ...Read More</description>
+      <pubDate>Fri, 09 May 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2845</guid>
+    </item>
     <item>
       <title>PhD Positions in Circular Economy and Sustainable Innovation...</title>
       <link>https://aust.edu/notice/2844</link>
@@ -350,13 +357,6 @@
       <description>...Read More</description>
       <pubDate>Mon, 17 Feb 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2751</guid>
-    </item>
-    <item>
-      <title>Office Order - Tuition Award (RA Quota)</title>
-      <link>https://aust.edu/notice/2749</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sat, 15 Feb 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2749</guid>
     </item>
   </channel>
 </rss>
