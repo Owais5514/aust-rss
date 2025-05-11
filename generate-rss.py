@@ -213,14 +213,16 @@ def fetch_notices():
             day_str = day_tag.get_text(strip=True)
             month_str = month_tag.get_text(strip=True)
             year_str = year_tag.get_text(strip=True)
-            
+
             # Combine the components into a single date string
             date_str = f"{month_str} {day_str} {year_str}"
             logging.info(f"  Assembled date string: '{date_str}' for title '{title}'")
-            
+
             try:
                 # Parse the combined date string using the specified format
                 local_dt = datetime.strptime(date_str, DATE_FORMAT)
+                # Set a default time (e.g., 12:00 PM local time)
+                local_dt = local_dt.replace(hour=12, minute=0, second=0)
                 # Assume the parsed date is in the local timezone (Dhaka UTC+6)
                 aware_local_dt = local_dt.replace(tzinfo=LOCAL_TIMEZONE)
                 # Convert to UTC for consistency
