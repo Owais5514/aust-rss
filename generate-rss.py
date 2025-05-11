@@ -220,14 +220,14 @@ def fetch_notices():
 
             try:
                 # Parse the combined date string using the specified format
-                local_dt = datetime.strptime(date_str, DATE_FORMAT)
-                # Set a default time (e.g., 12:00 PM local time)
-                local_dt = local_dt.replace(hour=12, minute=0, second=0)
-                # Assume the parsed date is in the local timezone (Dhaka UTC+6)
+                date_only = datetime.strptime(date_str, DATE_FORMAT)
+                # Get current local time in Bangladesh
+                now_bd = datetime.now(LOCAL_TIMEZONE)
+                # Use the scraped date, but set the time to current local Bangladesh time
+                local_dt = date_only.replace(hour=now_bd.hour, minute=now_bd.minute, second=now_bd.second)
                 aware_local_dt = local_dt.replace(tzinfo=LOCAL_TIMEZONE)
-                # Convert to UTC for consistency
                 pub_date = aware_local_dt.astimezone(timezone.utc)
-                logging.info(f"    Successfully parsed date: {pub_date}")
+                logging.info(f"    Successfully parsed date with local BD time: {pub_date}")
             except ValueError as date_err:
                 logging.error(f"    Could not parse date string '{date_str}' with format '{DATE_FORMAT}'. Error: {date_err}")
                 # Fallback handled below
@@ -298,6 +298,8 @@ def generate_rss_feed(notices, existing_guids, filename):
     ET.SubElement(channel, "title").text = FEED_TITLE
     ET.SubElement(channel, "link").text = FEED_LINK
     ET.SubElement(channel, "description").text = FEED_DESCRIPTION
+    ET.SubElement(channel, "language").text = "en-US"
+    ET.SubElement(channel, "copyright").text = "Ahsanullah University of Science and Technology"
     ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     ET.SubElement(channel, "generator").text = "Python RSS Generator Script"
     # Add a version element that changes with each run using the current timestamp
