@@ -7,9 +7,9 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 18 May 2025 21:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 18:27:20 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250518.211553</version>
+    <version>1.0.20250519.182720</version>
     <item>
       <title>Notice (Provisional Certificates and Provisional Transcript)</title>
       <link>https://aust.edu/notice/2855</link>
@@ -51,6 +51,20 @@
       <description>....Read More</description>
       <pubDate>Sun, 18 May 2025 21:15:53 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2850</guid>
+    </item>
+    <item>
+      <title>List of selected Candidates for PG Program, Department of EE...</title>
+      <link>https://aust.edu/notice/2857</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 18 May 2025 18:27:20 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2857</guid>
+    </item>
+    <item>
+      <title>Notice for Course Registration of M.Sc.Program (EEE), Fall 2...</title>
+      <link>https://aust.edu/notice/2856</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 18 May 2025 18:27:20 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2856</guid>
     </item>
     <item>
       <title>AUST will remain open on May 17 (Saturday) and May 24 (Satur...</title>
