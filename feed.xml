@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 19 May 2025 18:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 12:38:50 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250519.182720</version>
+    <version>1.0.20250521.123850</version>
+    <item>
+      <title>Notification (Eid-ul-Azha)</title>
+      <link>https://aust.edu/notice/2858</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 21 May 2025 12:38:50 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2858</guid>
+    </item>
     <item>
       <title>Notice (Provisional Certificates and Provisional Transcript)</title>
       <link>https://aust.edu/notice/2855</link>
