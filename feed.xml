@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 26 May 2025 06:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 12:39:49 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250526.062857</version>
+    <version>1.0.20250527.123949</version>
+    <item>
+      <title>Research Assistant (In the field of Sports Participation and...</title>
+      <link>https://aust.edu/notice/2868</link>
+      <description>....Read More</description>
+      <pubDate>Tue, 27 May 2025 12:39:49 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2868</guid>
+    </item>
     <item>
       <title>Academic Calendar (Fall 2024 Semester)</title>
       <link>https://aust.edu/notice/2863</link>
@@ -352,13 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Tue, 25 Mar 2025 04:13:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2807</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://aust.edu/notice/2806</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 25 Mar 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2806</guid>
     </item>
   </channel>
 </rss>
