@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 28 May 2025 06:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 12:39:25 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250528.062754</version>
+    <version>1.0.20250528.123925</version>
+    <item>
+      <title>Office Order (ICT Center)</title>
+      <link>https://aust.edu/notice/2872</link>
+      <description>Prof, Dr. S. M. Abdullah Atr-Mamun, Dire...Read More</description>
+      <pubDate>Wed, 28 May 2025 12:39:25 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2872</guid>
+    </item>
+    <item>
+      <title>Research Assistant for AUST Internal Research Project</title>
+      <link>https://aust.edu/notice/2871</link>
+      <description>The Division of Physics within the Depar...Read More</description>
+      <pubDate>Wed, 28 May 2025 12:39:25 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2871</guid>
+    </item>
     <item>
       <title>Research Assistant (AIRG/2024/MPE/07/06/VA/RA/1)</title>
       <link>https://aust.edu/notice/2870</link>
@@ -345,20 +359,6 @@
       <description>As per requests of the AUST's student bo...Read More</description>
       <pubDate>Mon, 07 Apr 2025 04:13:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2810</guid>
-    </item>
-    <item>
-      <title>OFFICE ORDER - Head (In-charge)</title>
-      <link>https://aust.edu/notice/2809</link>
-      <description>Mr. A.B.M. Mahbubul Malik, Associate Pro...Read More</description>
-      <pubDate>Sun, 06 Apr 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2809</guid>
-    </item>
-    <item>
-      <title>OFFICE ORDER - Dean (In-charge), Faculty of Architecture and...</title>
-      <link>https://aust.edu/notice/2808</link>
-      <description>Dr. Shehzad Zahir, Professor, Department...Read More</description>
-      <pubDate>Sun, 06 Apr 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2808</guid>
     </item>
   </channel>
 </rss>
