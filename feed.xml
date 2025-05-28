@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 27 May 2025 12:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 06:27:54 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250527.123949</version>
+    <version>1.0.20250528.062754</version>
+    <item>
+      <title>Research Assistant (AIRG/2024/MPE/07/06/VA/RA/1)</title>
+      <link>https://aust.edu/notice/2870</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 28 May 2025 06:27:54 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2870</guid>
+    </item>
     <item>
       <title>Research Assistant (In the field of Sports Participation and...</title>
       <link>https://aust.edu/notice/2868</link>
@@ -352,13 +359,6 @@
       <description>Dr. Shehzad Zahir, Professor, Department...Read More</description>
       <pubDate>Sun, 06 Apr 2025 04:13:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2808</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://aust.edu/notice/2807</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 25 Mar 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2807</guid>
     </item>
   </channel>
 </rss>
