@@ -1370,3 +1370,124 @@
 2025-05-28 18:25:58,137 - INFO - No new notices found based on GUID comparison with the existing feed.
 2025-05-28 18:25:58,137 - INFO - RSS feed generation skipped.
 2025-05-28 18:25:58,137 - INFO - Process finished. Duration: 0:00:01.928221
+2025-05-28 21:17:27,973 - INFO - Starting AUST notice scraping process...
+2025-05-28 21:17:27,973 - INFO - Local time: 2025-05-28 21:17:27  (Timezone Offset: UTC+06:00)
+2025-05-28 21:17:27,973 - INFO - Fetching notices from https://aust.edu/notice
+2025-05-28 21:17:30,115 - INFO - Successfully fetched page. Status code: 200
+2025-05-28 21:17:30,115 - INFO - Parsing HTML content using lxml...
+2025-05-28 21:17:30,155 - INFO - Looking for notice elements using selector: 'div.card-info'
+2025-05-28 21:17:30,160 - INFO - Found 36 potential notice elements.
+2025-05-28 21:17:30,161 - INFO -   Assembled date string: 'May 28 2025' for title 'Office Order (ICT Center)'
+2025-05-28 21:17:30,225 - INFO -     Successfully parsed date with local BD time: 2025-05-27 21:17:30+00:00
+2025-05-28 21:17:30,226 - INFO -   -> Found notice: Title='Office Order (ICT Center)', Link='https://aust.edu/notice/2872', Date='2025-05-27 21:17:30+00:00', GUID='https://aust.edu/notice/2872'
+2025-05-28 21:17:30,226 - INFO -   Assembled date string: 'May 28 2025' for title 'Research Assistant for AUST Internal Research Project'
+2025-05-28 21:17:30,226 - INFO -     Successfully parsed date with local BD time: 2025-05-27 21:17:30+00:00
+2025-05-28 21:17:30,227 - INFO -   -> Found notice: Title='Research Assistant for AUST Internal Research Project', Link='https://aust.edu/notice/2871', Date='2025-05-27 21:17:30+00:00', GUID='https://aust.edu/notice/2871'
+2025-05-28 21:17:30,227 - INFO -   Assembled date string: 'May 28 2025' for title 'Research Assistant (AIRG/2024/MPE/07/06/VA/RA/1)'
+2025-05-28 21:17:30,227 - INFO -     Successfully parsed date with local BD time: 2025-05-27 21:17:30+00:00
+2025-05-28 21:17:30,227 - INFO -   -> Found notice: Title='Research Assistant (AIRG/2024/MPE/07/06/VA/RA/1)', Link='https://aust.edu/notice/2870', Date='2025-05-27 21:17:30+00:00', GUID='https://aust.edu/notice/2870'
+2025-05-28 21:17:30,228 - INFO -   Assembled date string: 'May 27 2025' for title 'Research Assistant (In the field of Sports Participation and...'
+2025-05-28 21:17:30,228 - INFO -     Successfully parsed date with local BD time: 2025-05-26 21:17:30+00:00
+2025-05-28 21:17:30,228 - INFO -   -> Found notice: Title='Research Assistant (In the field of Sports Participation and...', Link='https://aust.edu/notice/2868', Date='2025-05-26 21:17:30+00:00', GUID='https://aust.edu/notice/2868'
+2025-05-28 21:17:30,229 - INFO -   Assembled date string: 'May 26 2025' for title 'Academic Calendar (Fall 2024 Semester)'
+2025-05-28 21:17:30,229 - INFO -     Successfully parsed date with local BD time: 2025-05-25 21:17:30+00:00
+2025-05-28 21:17:30,229 - INFO -   -> Found notice: Title='Academic Calendar (Fall 2024 Semester)', Link='https://aust.edu/notice/2863', Date='2025-05-25 21:17:30+00:00', GUID='https://aust.edu/notice/2863'
+2025-05-28 21:17:30,229 - INFO -   Assembled date string: 'May 25 2025' for title 'Research Assistant for AUST Internal Research Grant Project'
+2025-05-28 21:17:30,230 - INFO -     Successfully parsed date with local BD time: 2025-05-24 21:17:30+00:00
+2025-05-28 21:17:30,230 - INFO -   -> Found notice: Title='Research Assistant for AUST Internal Research Grant Project', Link='https://aust.edu/notice/2862', Date='2025-05-24 21:17:30+00:00', GUID='https://aust.edu/notice/2862'
+2025-05-28 21:17:30,230 - INFO -   Assembled date string: 'May 22 2025' for title 'Graduate Notification: Master of Science in Electrical and E...'
+2025-05-28 21:17:30,230 - INFO -     Successfully parsed date with local BD time: 2025-05-21 21:17:30+00:00
+2025-05-28 21:17:30,230 - INFO -   -> Found notice: Title='Graduate Notification: Master of Science in Electrical and E...', Link='https://aust.edu/notice/2860', Date='2025-05-21 21:17:30+00:00', GUID='https://aust.edu/notice/2860'
+2025-05-28 21:17:30,231 - INFO -   Assembled date string: 'May 22 2025' for title 'Reception and orientation Program for newly admitted student...'
+2025-05-28 21:17:30,231 - INFO -     Successfully parsed date with local BD time: 2025-05-21 21:17:30+00:00
+2025-05-28 21:17:30,231 - INFO -   -> Found notice: Title='Reception and orientation Program for newly admitted student...', Link='https://aust.edu/notice/2859', Date='2025-05-21 21:17:30+00:00', GUID='https://aust.edu/notice/2859'
+2025-05-28 21:17:30,232 - INFO -   Assembled date string: 'May 21 2025' for title 'Notification (Eid-ul-Azha)'
+2025-05-28 21:17:30,232 - INFO -     Successfully parsed date with local BD time: 2025-05-20 21:17:30+00:00
+2025-05-28 21:17:30,232 - INFO -   -> Found notice: Title='Notification (Eid-ul-Azha)', Link='https://aust.edu/notice/2858', Date='2025-05-20 21:17:30+00:00', GUID='https://aust.edu/notice/2858'
+2025-05-28 21:17:30,232 - INFO -   Assembled date string: 'May 19 2025' for title 'List of selected Candidates for PG Program, Department of EE...'
+2025-05-28 21:17:30,232 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,232 - INFO -   -> Found notice: Title='List of selected Candidates for PG Program, Department of EE...', Link='https://aust.edu/notice/2857', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2857'
+2025-05-28 21:17:30,233 - INFO -   Assembled date string: 'May 19 2025' for title 'Notice for Course Registration of M.Sc.Program (EEE), Fall 2...'
+2025-05-28 21:17:30,233 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,233 - INFO -   -> Found notice: Title='Notice for Course Registration of M.Sc.Program (EEE), Fall 2...', Link='https://aust.edu/notice/2856', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2856'
+2025-05-28 21:17:30,234 - INFO -   Assembled date string: 'May 19 2025' for title 'Notice (Provisional Certificates and Provisional Transcript)'
+2025-05-28 21:17:30,234 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,234 - INFO -   -> Found notice: Title='Notice (Provisional Certificates and Provisional Transcript)', Link='https://aust.edu/notice/2855', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2855'
+2025-05-28 21:17:30,234 - INFO -   Assembled date string: 'May 19 2025' for title 'Notice for Convocation Mug Distribution'
+2025-05-28 21:17:30,235 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,235 - INFO -   -> Found notice: Title='Notice for Convocation Mug Distribution', Link='https://aust.edu/notice/2854', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2854'
+2025-05-28 21:17:30,235 - INFO -   Assembled date string: 'May 19 2025' for title 'Graduate Notification: Bachelor of Science in Industrial and...'
+2025-05-28 21:17:30,235 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,235 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Industrial and...', Link='https://aust.edu/notice/2853', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2853'
+2025-05-28 21:17:30,236 - INFO -   Assembled date string: 'May 19 2025' for title 'Graduate Notification: Bachelor of Science in Mechanical Eng...'
+2025-05-28 21:17:30,236 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,236 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Mechanical Eng...', Link='https://aust.edu/notice/2852', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2852'
+2025-05-28 21:17:30,237 - INFO -   Assembled date string: 'May 19 2025' for title 'Office Order (Dean Arch.)'
+2025-05-28 21:17:30,237 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,237 - INFO -   -> Found notice: Title='Office Order (Dean Arch.)', Link='https://aust.edu/notice/2851', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2851'
+2025-05-28 21:17:30,237 - INFO -   Assembled date string: 'May 19 2025' for title 'Office Order (Dean Engg.)'
+2025-05-28 21:17:30,237 - INFO -     Successfully parsed date with local BD time: 2025-05-18 21:17:30+00:00
+2025-05-28 21:17:30,238 - INFO -   -> Found notice: Title='Office Order (Dean Engg.)', Link='https://aust.edu/notice/2850', Date='2025-05-18 21:17:30+00:00', GUID='https://aust.edu/notice/2850'
+2025-05-28 21:17:30,238 - INFO -   Assembled date string: 'May 15 2025' for title 'AUST will remain open on May 17 (Saturday) and May 24 (Satur...'
+2025-05-28 21:17:30,238 - INFO -     Successfully parsed date with local BD time: 2025-05-14 21:17:30+00:00
+2025-05-28 21:17:30,238 - INFO -   -> Found notice: Title='AUST will remain open on May 17 (Saturday) and May 24 (Satur...', Link='https://aust.edu/notice/2849', Date='2025-05-14 21:17:30+00:00', GUID='https://aust.edu/notice/2849'
+2025-05-28 21:17:30,239 - INFO -   Assembled date string: 'May 12 2025' for title 'Transportation Information for 12th Convocation Graduates/ G...'
+2025-05-28 21:17:30,239 - INFO -     Successfully parsed date with local BD time: 2025-05-11 21:17:30+00:00
+2025-05-28 21:17:30,239 - INFO -   -> Found notice: Title='Transportation Information for 12th Convocation Graduates/ G...', Link='https://aust.edu/notice/2847', Date='2025-05-11 21:17:30+00:00', GUID='https://aust.edu/notice/2847'
+2025-05-28 21:17:30,240 - INFO -   Assembled date string: 'May 12 2025' for title 'প্রজ্ঞাপন'
+2025-05-28 21:17:30,240 - INFO -     Successfully parsed date with local BD time: 2025-05-11 21:17:30+00:00
+2025-05-28 21:17:30,240 - INFO -   -> Found notice: Title='প্রজ্ঞাপন', Link='https://aust.edu/notice/2846', Date='2025-05-11 21:17:30+00:00', GUID='https://aust.edu/notice/2846'
+2025-05-28 21:17:30,240 - INFO -   Assembled date string: 'May 10 2025' for title 'Notice for the participating graduates of the 12th Convocati...'
+2025-05-28 21:17:30,240 - INFO -     Successfully parsed date with local BD time: 2025-05-09 21:17:30+00:00
+2025-05-28 21:17:30,240 - INFO -   -> Found notice: Title='Notice for the participating graduates of the 12th Convocati...', Link='https://aust.edu/notice/2845', Date='2025-05-09 21:17:30+00:00', GUID='https://aust.edu/notice/2845'
+2025-05-28 21:17:30,241 - INFO -   Assembled date string: 'May 08 2025' for title 'PhD Positions in Circular Economy and Sustainable Innovation...'
+2025-05-28 21:17:30,241 - INFO -     Successfully parsed date with local BD time: 2025-05-07 21:17:30+00:00
+2025-05-28 21:17:30,241 - INFO -   -> Found notice: Title='PhD Positions in Circular Economy and Sustainable Innovation...', Link='https://aust.edu/notice/2844', Date='2025-05-07 21:17:30+00:00', GUID='https://aust.edu/notice/2844'
+2025-05-28 21:17:30,242 - INFO -   Assembled date string: 'May 08 2025' for title 'প্রজ্ঞাপন'
+2025-05-28 21:17:30,242 - INFO -     Successfully parsed date with local BD time: 2025-05-07 21:17:30+00:00
+2025-05-28 21:17:30,242 - INFO -   -> Found notice: Title='প্রজ্ঞাপন', Link='https://aust.edu/notice/2843', Date='2025-05-07 21:17:30+00:00', GUID='https://aust.edu/notice/2843'
+2025-05-28 21:17:30,242 - INFO -   Assembled date string: 'May 08 2025' for title 'Research Assistant Job Circular'
+2025-05-28 21:17:30,243 - INFO -     Successfully parsed date with local BD time: 2025-05-07 21:17:30+00:00
+2025-05-28 21:17:30,243 - INFO -   -> Found notice: Title='Research Assistant Job Circular', Link='https://aust.edu/notice/2842', Date='2025-05-07 21:17:30+00:00', GUID='https://aust.edu/notice/2842'
+2025-05-28 21:17:30,243 - INFO -   Assembled date string: 'May 08 2025' for title 'Notice regarding the distribution Original Certificates from...'
+2025-05-28 21:17:30,243 - INFO -     Successfully parsed date with local BD time: 2025-05-07 21:17:30+00:00
+2025-05-28 21:17:30,243 - INFO -   -> Found notice: Title='Notice regarding the distribution Original Certificates from...', Link='https://aust.edu/notice/2841', Date='2025-05-07 21:17:30+00:00', GUID='https://aust.edu/notice/2841'
+2025-05-28 21:17:30,244 - INFO -   Assembled date string: 'May 06 2025' for title 'Selected Candidates for Admission into the MS in Mathematics...'
+2025-05-28 21:17:30,244 - INFO -     Successfully parsed date with local BD time: 2025-05-05 21:17:30+00:00
+2025-05-28 21:17:30,244 - INFO -   -> Found notice: Title='Selected Candidates for Admission into the MS in Mathematics...', Link='https://aust.edu/notice/2840', Date='2025-05-05 21:17:30+00:00', GUID='https://aust.edu/notice/2840'
+2025-05-28 21:17:30,245 - INFO -   Assembled date string: 'May 05 2025' for title 'Notification (Bouddha Purnima)'
+2025-05-28 21:17:30,245 - INFO -     Successfully parsed date with local BD time: 2025-05-04 21:17:30+00:00
+2025-05-28 21:17:30,245 - INFO -   -> Found notice: Title='Notification (Bouddha Purnima)', Link='https://aust.edu/notice/2839', Date='2025-05-04 21:17:30+00:00', GUID='https://aust.edu/notice/2839'
+2025-05-28 21:17:30,245 - INFO -   Assembled date string: 'May 04 2025' for title 'Notice regarding appointment of AASW'
+2025-05-28 21:17:30,245 - INFO -     Successfully parsed date with local BD time: 2025-05-03 21:17:30+00:00
+2025-05-28 21:17:30,246 - INFO -   -> Found notice: Title='Notice regarding appointment of AASW', Link='https://aust.edu/notice/2838', Date='2025-05-03 21:17:30+00:00', GUID='https://aust.edu/notice/2838'
+2025-05-28 21:17:30,246 - INFO -   Assembled date string: 'May 01 2025' for title 'Notification: 12th Convocation Costume Distribution Schedule'
+2025-05-28 21:17:30,246 - INFO -     Successfully parsed date with local BD time: 2025-04-30 21:17:30+00:00
+2025-05-28 21:17:30,246 - INFO -   -> Found notice: Title='Notification: 12th Convocation Costume Distribution Schedule', Link='https://aust.edu/notice/2836', Date='2025-04-30 21:17:30+00:00', GUID='https://aust.edu/notice/2836'
+2025-05-28 21:17:30,247 - INFO -   Assembled date string: 'Apr 30 2025' for title 'Office Order'
+2025-05-28 21:17:30,247 - INFO -     Successfully parsed date with local BD time: 2025-04-29 21:17:30+00:00
+2025-05-28 21:17:30,247 - INFO -   -> Found notice: Title='Office Order', Link='https://aust.edu/notice/2835', Date='2025-04-29 21:17:30+00:00', GUID='https://aust.edu/notice/2835'
+2025-05-28 21:17:30,247 - INFO -   Assembled date string: 'Apr 30 2025' for title 'Notification regarding 12th Convocation Costume Distribution'
+2025-05-28 21:17:30,248 - INFO -     Successfully parsed date with local BD time: 2025-04-29 21:17:30+00:00
+2025-05-28 21:17:30,248 - INFO -   -> Found notice: Title='Notification regarding 12th Convocation Costume Distribution', Link='https://aust.edu/notice/2834', Date='2025-04-29 21:17:30+00:00', GUID='https://aust.edu/notice/2834'
+2025-05-28 21:17:30,248 - INFO -   Assembled date string: 'Apr 30 2025' for title 'Notification regarding 12th Convocation (Certificate)'
+2025-05-28 21:17:30,248 - INFO -     Successfully parsed date with local BD time: 2025-04-29 21:17:30+00:00
+2025-05-28 21:17:30,248 - INFO -   -> Found notice: Title='Notification regarding 12th Convocation (Certificate)', Link='https://aust.edu/notice/2833', Date='2025-04-29 21:17:30+00:00', GUID='https://aust.edu/notice/2833'
+2025-05-28 21:17:30,249 - INFO -   Assembled date string: 'Apr 30 2025' for title 'Notification (May Day)'
+2025-05-28 21:17:30,249 - INFO -     Successfully parsed date with local BD time: 2025-04-29 21:17:30+00:00
+2025-05-28 21:17:30,249 - INFO -   -> Found notice: Title='Notification (May Day)', Link='https://aust.edu/notice/2832', Date='2025-04-29 21:17:30+00:00', GUID='https://aust.edu/notice/2832'
+2025-05-28 21:17:30,250 - INFO -   Assembled date string: 'Apr 29 2025' for title 'TENDER INVITATION'
+2025-05-28 21:17:30,250 - INFO -     Successfully parsed date with local BD time: 2025-04-28 21:17:30+00:00
+2025-05-28 21:17:30,250 - INFO -   -> Found notice: Title='TENDER INVITATION', Link='https://aust.edu/notice/2831', Date='2025-04-28 21:17:30+00:00', GUID='https://aust.edu/notice/2831'
+2025-05-28 21:17:30,250 - INFO -   Assembled date string: 'Apr 29 2025' for title 'Notice for Internship / Project of MBA / EMBA Program Spring...'
+2025-05-28 21:17:30,250 - INFO -     Successfully parsed date with local BD time: 2025-04-28 21:17:30+00:00
+2025-05-28 21:17:30,251 - INFO -   -> Found notice: Title='Notice for Internship / Project of MBA / EMBA Program Spring...', Link='https://aust.edu/notice/2830', Date='2025-04-28 21:17:30+00:00', GUID='https://aust.edu/notice/2830'
+2025-05-28 21:17:30,251 - INFO -   Assembled date string: 'Apr 29 2025' for title 'NOTIFICATION (CGPA Correction)'
+2025-05-28 21:17:30,251 - INFO -     Successfully parsed date with local BD time: 2025-04-28 21:17:30+00:00
+2025-05-28 21:17:30,251 - INFO -   -> Found notice: Title='NOTIFICATION (CGPA Correction)', Link='https://aust.edu/notice/2829', Date='2025-04-28 21:17:30+00:00', GUID='https://aust.edu/notice/2829'
+2025-05-28 21:17:30,251 - INFO - Finished parsing. Extracted 36 valid notices.
+2025-05-28 21:17:30,252 - INFO - Loading existing GUIDs from feed.xml...
+2025-05-28 21:17:30,253 - INFO - Loaded 50 existing GUIDs.
+2025-05-28 21:17:30,253 - INFO - No new notices found based on GUID comparison with the existing feed.
+2025-05-28 21:17:30,253 - INFO - RSS feed generation skipped.
+2025-05-28 21:17:30,253 - INFO - Process finished. Duration: 0:00:02.280031
