@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sat, 19 Jul 2025 00:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 08:14:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250719.004633</version>
+    <version>1.0.20250722.081430</version>
+    <item>
+      <title>Note Regarding Arrangement of Electronic Fund Transfer</title>
+      <link>https://aust.edu/notice/2923</link>
+      <description>As per the Note dated 09 July 2025 of th...Read More</description>
+      <pubDate>Tue, 22 Jul 2025 08:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2923</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Architecture, Fall 2024</title>
+      <link>https://aust.edu/notice/2922</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 22 Jul 2025 08:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2922</guid>
+    </item>
     <item>
       <title>Research Assistant Position in Exciting 6G Research Fields</title>
       <link>https://aust.edu/notice/2916</link>
@@ -345,20 +359,6 @@
       <description>The participating graduates (registered ...Read More</description>
       <pubDate>Sat, 10 May 2025 04:13:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2845</guid>
-    </item>
-    <item>
-      <title>PhD Positions in Circular Economy and Sustainable Innovation...</title>
-      <link>https://aust.edu/notice/2844</link>
-      <description>Aalborg University Business School (AAUB...Read More</description>
-      <pubDate>Thu, 08 May 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2844</guid>
-    </item>
-    <item>
-      <title>প্রজ্ঞাপন</title>
-      <link>https://aust.edu/notice/2843</link>
-      <description>....Read More</description>
-      <pubDate>Thu, 08 May 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2843</guid>
     </item>
   </channel>
 </rss>
