@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 22 Jul 2025 08:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 16:12:29 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250722.081430</version>
+    <version>1.0.20250723.161229</version>
+    <item>
+      <title>Payment Notice for MBA/ EMBA Program</title>
+      <link>https://aust.edu/notice/2924</link>
+      <description>All the students of MBA/EMBA Program are...Read More</description>
+      <pubDate>Wed, 23 Jul 2025 16:12:29 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2924</guid>
+    </item>
     <item>
       <title>Note Regarding Arrangement of Electronic Fund Transfer</title>
       <link>https://aust.edu/notice/2923</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Mon, 12 May 2025 12:39:24 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2846</guid>
-    </item>
-    <item>
-      <title>Notice for the participating graduates of the 12th Convocati...</title>
-      <link>https://aust.edu/notice/2845</link>
-      <description>The participating graduates (registered ...Read More</description>
-      <pubDate>Sat, 10 May 2025 04:13:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2845</guid>
     </item>
   </channel>
 </rss>
