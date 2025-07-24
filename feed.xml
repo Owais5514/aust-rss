@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 23 Jul 2025 16:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 16:11:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250723.161229</version>
+    <version>1.0.20250724.161142</version>
+    <item>
+      <title>Schedule of Semester Midterm Examination: Fall 2024</title>
+      <link>https://aust.edu/notice/2927</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2927</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
+      <link>https://aust.edu/notice/2926</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2926</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
+      <link>https://aust.edu/notice/2925</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2925</guid>
+    </item>
     <item>
       <title>Payment Notice for MBA/ EMBA Program</title>
       <link>https://aust.edu/notice/2924</link>
@@ -338,27 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sun, 18 May 2025 18:27:20 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2856</guid>
-    </item>
-    <item>
-      <title>AUST will remain open on May 17 (Saturday) and May 24 (Satur...</title>
-      <link>https://aust.edu/notice/2849</link>
-      <description>As per the direction of the Ministry of ...Read More</description>
-      <pubDate>Thu, 15 May 2025 12:38:36 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2849</guid>
-    </item>
-    <item>
-      <title>Transportation Information for 12th Convocation Graduates/ G...</title>
-      <link>https://aust.edu/notice/2847</link>
-      <description>....Read More</description>
-      <pubDate>Mon, 12 May 2025 12:52:32 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2847</guid>
-    </item>
-    <item>
-      <title>প্রজ্ঞাপন</title>
-      <link>https://aust.edu/notice/2846</link>
-      <description>....Read More</description>
-      <pubDate>Mon, 12 May 2025 12:39:24 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2846</guid>
     </item>
   </channel>
 </rss>
