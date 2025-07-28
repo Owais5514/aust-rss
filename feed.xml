@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 24 Jul 2025 16:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 16:12:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250724.161142</version>
+    <version>1.0.20250728.161230</version>
+    <item>
+      <title>Notice for M.Sc. in EEE</title>
+      <link>https://aust.edu/notice/2928</link>
+      <description>All the students of Master's Program (Fa...Read More</description>
+      <pubDate>Mon, 28 Jul 2025 16:12:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2928</guid>
+    </item>
     <item>
       <title>Schedule of Semester Midterm Examination: Fall 2024</title>
       <link>https://aust.edu/notice/2927</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sun, 18 May 2025 18:27:20 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2857</guid>
-    </item>
-    <item>
-      <title>Notice for Course Registration of M.Sc.Program (EEE), Fall 2...</title>
-      <link>https://aust.edu/notice/2856</link>
-      <description>....Read More</description>
-      <pubDate>Sun, 18 May 2025 18:27:20 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2856</guid>
     </item>
   </channel>
 </rss>
