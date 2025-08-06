@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 08:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 08:14:33 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250804.081529</version>
+    <version>1.0.20250806.081433</version>
+    <item>
+      <title>Job Circular for the Position of Research Assistant</title>
+      <link>https://aust.edu/notice/2942</link>
+      <description>A Research Project titled, “Investigat...Read More</description>
+      <pubDate>Wed, 06 Aug 2025 08:14:32 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2942</guid>
+    </item>
     <item>
       <title>Sitting Arrangement for Semester Midterm Examination, Fall 2...</title>
       <link>https://aust.edu/notice/2940</link>
@@ -352,13 +359,6 @@
       <description>It is to notify for information of all c...Read More</description>
       <pubDate>Sun, 18 May 2025 21:15:53 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2855</guid>
-    </item>
-    <item>
-      <title>Notice for Convocation Mug Distribution</title>
-      <link>https://aust.edu/notice/2854</link>
-      <description>It is to notify for information of all c...Read More</description>
-      <pubDate>Sun, 18 May 2025 21:15:53 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2854</guid>
     </item>
   </channel>
 </rss>
