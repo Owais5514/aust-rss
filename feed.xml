@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 11 Aug 2025 00:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 08:15:17 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250811.005205</version>
+    <version>1.0.20250811.081517</version>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://aust.edu/notice/2949</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Mon, 11 Aug 2025 08:15:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2949</guid>
+    </item>
     <item>
       <title>Re-schedule of the Examination rooms of the Midterm Exam on...</title>
       <link>https://aust.edu/notice/2948</link>
@@ -352,13 +359,6 @@
       <description>The Division of Chemistry within the Dep...Read More</description>
       <pubDate>Sun, 25 May 2025 06:25:08 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2862</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://aust.edu/notice/2860</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 22 May 2025 09:20:25 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2860</guid>
     </item>
   </channel>
 </rss>
