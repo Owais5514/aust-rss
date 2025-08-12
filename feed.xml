@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 11 Aug 2025 08:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 16:11:38 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250811.081517</version>
+    <version>1.0.20250812.161138</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://aust.edu/notice/2953</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Tue, 12 Aug 2025 16:11:38 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2953</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
+      <link>https://aust.edu/notice/2952</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Tue, 12 Aug 2025 16:11:38 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2952</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://aust.edu/notice/2949</link>
@@ -345,20 +359,6 @@
       <description>....Read More</description>
       <pubDate>Tue, 27 May 2025 12:39:49 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2868</guid>
-    </item>
-    <item>
-      <title>Academic Calendar (Fall 2024 Semester)</title>
-      <link>https://aust.edu/notice/2863</link>
-      <description>....Read More</description>
-      <pubDate>Mon, 26 May 2025 06:28:57 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2863</guid>
-    </item>
-    <item>
-      <title>Research Assistant for AUST Internal Research Grant Project</title>
-      <link>https://aust.edu/notice/2862</link>
-      <description>The Division of Chemistry within the Dep...Read More</description>
-      <pubDate>Sun, 25 May 2025 06:25:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2862</guid>
     </item>
   </channel>
 </rss>
