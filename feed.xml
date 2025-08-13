@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 12 Aug 2025 16:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 08:13:31 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250812.161138</version>
+    <version>1.0.20250813.081331</version>
+    <item>
+      <title>Revised notification of the Midterm Exam on 17 August 2025</title>
+      <link>https://aust.edu/notice/2955</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 13 Aug 2025 08:13:31 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2955</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
       <link>https://aust.edu/notice/2953</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Wed, 28 May 2025 06:27:54 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2870</guid>
-    </item>
-    <item>
-      <title>Research Assistant (In the field of Sports Participation and...</title>
-      <link>https://aust.edu/notice/2868</link>
-      <description>....Read More</description>
-      <pubDate>Tue, 27 May 2025 12:39:49 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2868</guid>
     </item>
   </channel>
 </rss>
