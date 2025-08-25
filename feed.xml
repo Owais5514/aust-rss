@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 24 Aug 2025 08:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 08:14:08 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250824.081041</version>
+    <version>1.0.20250825.081408</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://aust.edu/notice/2967</link>
+      <description>In continuation ofthe notification no. N...Read More</description>
+      <pubDate>Mon, 25 Aug 2025 08:14:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2967</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
+      <link>https://aust.edu/notice/2966</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Mon, 25 Aug 2025 08:14:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2966</guid>
+    </item>
     <item>
       <title>Office Order</title>
       <link>https://aust.edu/notice/2962</link>
@@ -345,20 +359,6 @@
       <description>This is for information of all concerned...Read More</description>
       <pubDate>Thu, 26 Jun 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2889</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://aust.edu/notice/2884</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Sun, 22 Jun 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2884</guid>
-    </item>
-    <item>
-      <title>Notification (ID Card)</title>
-      <link>https://aust.edu/notice/2883</link>
-      <description>In pursuance of the decision of the 22&quot;d...Read More</description>
-      <pubDate>Sun, 22 Jun 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2883</guid>
     </item>
   </channel>
 </rss>
