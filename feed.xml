@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 26 Aug 2025 08:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 16:10:36 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250826.081344</version>
+    <version>1.0.20250826.161036</version>
+    <item>
+      <title>Notice (Fire Drill)</title>
+      <link>https://aust.edu/notice/2971</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Tue, 26 Aug 2025 16:10:36 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2971</guid>
+    </item>
+    <item>
+      <title>Notice (Rabies vaccination program)</title>
+      <link>https://aust.edu/notice/2970</link>
+      <description>This is hereby notified for information ...Read More</description>
+      <pubDate>Tue, 26 Aug 2025 16:10:36 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2970</guid>
+    </item>
     <item>
       <title>Office Order</title>
       <link>https://aust.edu/notice/2969</link>
@@ -345,20 +359,6 @@
       <description>....Read More</description>
       <pubDate>Tue, 01 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2894</guid>
-    </item>
-    <item>
-      <title>TENDER INVITATION</title>
-      <link>https://aust.edu/notice/2893</link>
-      <description>Ahsanullah University of Science and Tec...Read More</description>
-      <pubDate>Tue, 01 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2893</guid>
-    </item>
-    <item>
-      <title>Notification: Distressed Students' Welfare Fund (DSWF)</title>
-      <link>https://aust.edu/notice/2892</link>
-      <description>Application in prescribed form (availabl...Read More</description>
-      <pubDate>Mon, 30 Jun 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2892</guid>
     </item>
   </channel>
 </rss>
