@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 25 Aug 2025 08:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 08:13:44 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250825.081408</version>
+    <version>1.0.20250826.081344</version>
+    <item>
+      <title>Office Order</title>
+      <link>https://aust.edu/notice/2969</link>
+      <description>In supersession of the Office Order No. ...Read More</description>
+      <pubDate>Tue, 26 Aug 2025 08:13:44 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2969</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
       <link>https://aust.edu/notice/2967</link>
@@ -352,13 +359,6 @@
       <description>Application in prescribed form (availabl...Read More</description>
       <pubDate>Mon, 30 Jun 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2892</guid>
-    </item>
-    <item>
-      <title>Notification (Government Scholarship)</title>
-      <link>https://aust.edu/notice/2889</link>
-      <description>This is for information of all concerned...Read More</description>
-      <pubDate>Thu, 26 Jun 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2889</guid>
     </item>
   </channel>
 </rss>
