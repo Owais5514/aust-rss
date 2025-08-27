@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 26 Aug 2025 16:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 08:12:16 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250826.161036</version>
+    <version>1.0.20250827.081216</version>
+    <item>
+      <title>Notification - Tuition Award (Sibling/Spouse)</title>
+      <link>https://aust.edu/notice/2975</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2975</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Education, Fall 2024</title>
+      <link>https://aust.edu/notice/2974</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2974</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://aust.edu/notice/2973</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2973</guid>
+    </item>
     <item>
       <title>Notice (Fire Drill)</title>
       <link>https://aust.edu/notice/2971</link>
@@ -338,27 +359,6 @@
       <description>....Read More</description>
       <pubDate>Tue, 08 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2900</guid>
-    </item>
-    <item>
-      <title>NOTIFICATION (SIBLING/SPOUSE QUOTA)</title>
-      <link>https://aust.edu/notice/2896</link>
-      <description>It is hereby notified that the students,...Read More</description>
-      <pubDate>Tue, 01 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2896</guid>
-    </item>
-    <item>
-      <title>Notification (Holy Ashura)</title>
-      <link>https://aust.edu/notice/2895</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 01 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2895</guid>
-    </item>
-    <item>
-      <title>নোটিশ (উচ্চতর বেতন স্কেল আবেদন)</title>
-      <link>https://aust.edu/notice/2894</link>
-      <description>....Read More</description>
-      <pubDate>Tue, 01 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2894</guid>
     </item>
   </channel>
 </rss>
