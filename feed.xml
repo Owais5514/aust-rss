@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 16:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 08:12:24 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250902.161026</version>
+    <version>1.0.20250903.081224</version>
+    <item>
+      <title>Notification (Improvement Examination - MBA/EMBA)</title>
+      <link>https://aust.edu/notice/2981</link>
+      <description>Student who want to appear at Improvemen...Read More</description>
+      <pubDate>Wed, 03 Sep 2025 08:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2981</guid>
+    </item>
     <item>
       <title>Office Order - Tuition Award (FF Quota)</title>
       <link>https://aust.edu/notice/2979</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 10 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2905</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Business Administration,...</title>
-      <link>https://aust.edu/notice/2904</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 10 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2904</guid>
     </item>
   </channel>
 </rss>
