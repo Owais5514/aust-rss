@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 08:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 16:10:26 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250903.081224</version>
+    <version>1.0.20250904.161026</version>
+    <item>
+      <title>Graduate Notification: Master of Engineering in Electrical a...</title>
+      <link>https://aust.edu/notice/2983</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 04 Sep 2025 16:10:26 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2983</guid>
+    </item>
+    <item>
+      <title>Notification (Eid-e-Miladunnabi)</title>
+      <link>https://aust.edu/notice/2982</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 04 Sep 2025 16:10:26 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/2982</guid>
+    </item>
     <item>
       <title>Notification (Improvement Examination - MBA/EMBA)</title>
       <link>https://aust.edu/notice/2981</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 10 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2907</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
-      <link>https://aust.edu/notice/2906</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 10 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2906</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
-      <link>https://aust.edu/notice/2905</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 10 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2905</guid>
     </item>
   </channel>
 </rss>
