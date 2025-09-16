@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 14 Sep 2025 00:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:13:00 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250914.004417</version>
+    <version>1.0.20250916.081300</version>
+    <item>
+      <title>'AUST ONE BANK Students' Welfare Fund' - Fall 2024</title>
+      <link>https://aust.edu/notice/3017</link>
+      <description>It is hereby notified for the informatio...Read More</description>
+      <pubDate>Tue, 16 Sep 2025 08:13:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3017</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Electrical and E...</title>
       <link>https://aust.edu/notice/3016</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Mon, 14 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2913</guid>
-    </item>
-    <item>
-      <title>Revised Notification (Payment of Semester Fees, and Re-admis...</title>
-      <link>https://aust.edu/notice/2912</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 13 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2912</guid>
     </item>
   </channel>
 </rss>
