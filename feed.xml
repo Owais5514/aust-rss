@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 08:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 16:10:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250916.081300</version>
+    <version>1.0.20250916.161030</version>
+    <item>
+      <title>Farewell Ceremony for Outgoing Students of Fall Semester-202...</title>
+      <link>https://aust.edu/notice/3019</link>
+      <description>A farewell program for outgoing students...Read More</description>
+      <pubDate>Tue, 16 Sep 2025 16:10:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3019</guid>
+    </item>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://aust.edu/notice/3018</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Tue, 16 Sep 2025 16:10:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3018</guid>
+    </item>
     <item>
       <title>'AUST ONE BANK Students' Welfare Fund' - Fall 2024</title>
       <link>https://aust.edu/notice/3017</link>
@@ -345,20 +359,6 @@
       <description>The Research and Pubtication Office (RPO...Read More</description>
       <pubDate>Tue, 15 Jul 2025 00:46:33 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2915</guid>
-    </item>
-    <item>
-      <title>আমন্ত্রনপত্র</title>
-      <link>https://aust.edu/notice/2914</link>
-      <description>১৭ জুলাই ২০২৫, ব...Read More</description>
-      <pubDate>Mon, 14 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2914</guid>
-    </item>
-    <item>
-      <title>Notification (Grade Sheet)</title>
-      <link>https://aust.edu/notice/2913</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Mon, 14 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2913</guid>
     </item>
   </channel>
 </rss>
