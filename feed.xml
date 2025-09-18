@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 16:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 16:10:00 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250916.161030</version>
+    <version>1.0.20250918.161000</version>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://aust.edu/notice/3021</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Thu, 18 Sep 2025 16:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3021</guid>
+    </item>
+    <item>
+      <title>Notification: Half free tuition award (HFTA)</title>
+      <link>https://aust.edu/notice/3020</link>
+      <description>In addition to the Notification No. AUST...Read More</description>
+      <pubDate>Thu, 18 Sep 2025 16:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3020</guid>
+    </item>
     <item>
       <title>Farewell Ceremony for Outgoing Students of Fall Semester-202...</title>
       <link>https://aust.edu/notice/3019</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 22 Jul 2025 08:14:30 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2922</guid>
-    </item>
-    <item>
-      <title>Research Assistant Position in Exciting 6G Research Fields</title>
-      <link>https://aust.edu/notice/2916</link>
-      <description>The Department of Electrical and Electro...Read More</description>
-      <pubDate>Tue, 15 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2916</guid>
-    </item>
-    <item>
-      <title>Call for Research Proposal for ASRG (1st Round)</title>
-      <link>https://aust.edu/notice/2915</link>
-      <description>The Research and Pubtication Office (RPO...Read More</description>
-      <pubDate>Tue, 15 Jul 2025 00:46:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2915</guid>
     </item>
   </channel>
 </rss>
