@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 21 Sep 2025 08:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 08:12:41 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250921.081010</version>
+    <version>1.0.20250923.081241</version>
+    <item>
+      <title>Routine for semester final examination, Fall 2024 (MBA/EMBA)</title>
+      <link>https://aust.edu/notice/3025</link>
+      <description>....Read More</description>
+      <pubDate>Tue, 23 Sep 2025 08:12:41 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3025</guid>
+    </item>
     <item>
       <title>Notification: Carry, Imporvement Application Fall 2024</title>
       <link>https://aust.edu/notice/3024</link>
@@ -352,13 +359,6 @@
       <description>All the students of MBA/EMBA Program are...Read More</description>
       <pubDate>Wed, 23 Jul 2025 16:12:29 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2924</guid>
-    </item>
-    <item>
-      <title>Note Regarding Arrangement of Electronic Fund Transfer</title>
-      <link>https://aust.edu/notice/2923</link>
-      <description>As per the Note dated 09 July 2025 of th...Read More</description>
-      <pubDate>Tue, 22 Jul 2025 08:14:30 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2923</guid>
     </item>
   </channel>
 </rss>
