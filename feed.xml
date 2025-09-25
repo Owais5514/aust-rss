@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 00:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 16:11:08 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20250924.004139</version>
+    <version>1.0.20250925.161108</version>
+    <item>
+      <title>Schedule of Semester Final Examinations: Fall 2024</title>
+      <link>https://aust.edu/notice/3028</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 25 Sep 2025 16:11:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3028</guid>
+    </item>
     <item>
       <title>Routine for semester final examination, Fall 2024 (MBA/EMBA)</title>
       <link>https://aust.edu/notice/3025</link>
@@ -352,13 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2926</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
-      <link>https://aust.edu/notice/2925</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2925</guid>
     </item>
   </channel>
 </rss>
