@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 08 Oct 2025 16:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 08:10:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251008.161120</version>
+    <version>1.0.20251012.081035</version>
+    <item>
+      <title>Notification (Bus Service)</title>
+      <link>https://aust.edu/notice/3034</link>
+      <description>It is notified for all concertred that a...Read More</description>
+      <pubDate>Sun, 12 Oct 2025 08:10:35 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3034</guid>
+    </item>
     <item>
       <title>Tender notice of Kunipara Project (Substation, AC &amp; Lift)</title>
       <link>https://aust.edu/notice/3032</link>
@@ -352,13 +359,6 @@
       <description>All the students of Master's Program (Fa...Read More</description>
       <pubDate>Mon, 28 Jul 2025 16:12:30 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2928</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Midterm Examination: Fall 2024</title>
-      <link>https://aust.edu/notice/2927</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 24 Jul 2025 16:11:42 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2927</guid>
     </item>
   </channel>
 </rss>
