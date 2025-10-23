@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 08:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 16:11:17 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251012.081035</version>
+    <version>1.0.20251023.161117</version>
+    <item>
+      <title>Office Order</title>
+      <link>https://aust.edu/notice/3043</link>
+      <description>Dr. Muhammad Saiful Islam Mallik, Profes...Read More</description>
+      <pubDate>Thu, 23 Oct 2025 16:11:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3043</guid>
+    </item>
     <item>
       <title>Notification (Bus Service)</title>
       <link>https://aust.edu/notice/3034</link>
@@ -352,13 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Wed, 30 Jul 2025 16:12:28 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2931</guid>
-    </item>
-    <item>
-      <title>Notice for M.Sc. in EEE</title>
-      <link>https://aust.edu/notice/2928</link>
-      <description>All the students of Master's Program (Fa...Read More</description>
-      <pubDate>Mon, 28 Jul 2025 16:12:30 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2928</guid>
     </item>
   </channel>
 </rss>
