@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 16:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 16:09:29 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251023.161117</version>
+    <version>1.0.20251026.160929</version>
+    <item>
+      <title>Schedule of Semester Carryover/Clearance/Improvement Examina...</title>
+      <link>https://aust.edu/notice/3045</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 26 Oct 2025 16:09:29 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3045</guid>
+    </item>
+    <item>
+      <title>Master of Science in Mathematics, Fall 2024</title>
+      <link>https://aust.edu/notice/3044</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 26 Oct 2025 16:09:29 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3044</guid>
+    </item>
     <item>
       <title>Office Order</title>
       <link>https://aust.edu/notice/3043</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Sun, 03 Aug 2025 08:11:57 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2936</guid>
-    </item>
-    <item>
-      <title>বিজ্ঞপ্তি</title>
-      <link>https://aust.edu/notice/2933</link>
-      <description>আহ্ছানউল্লা ইউ...Read More</description>
-      <pubDate>Thu, 31 Jul 2025 16:12:47 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2933</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://aust.edu/notice/2931</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 30 Jul 2025 16:12:28 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2931</guid>
     </item>
   </channel>
 </rss>
