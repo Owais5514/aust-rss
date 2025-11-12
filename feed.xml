@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 10 Nov 2025 16:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 16:13:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251110.161149</version>
+    <version>1.0.20251112.161342</version>
+    <item>
+      <title>List of selected Candidates for PG Program, Department of EE...</title>
+      <link>https://aust.edu/notice/3055</link>
+      <description>The following candidates have been selec...Read More</description>
+      <pubDate>Wed, 12 Nov 2025 16:13:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3055</guid>
+    </item>
     <item>
       <title>Notification on List of Awarded Projects under AUST Student...</title>
       <link>https://aust.edu/notice/3054</link>
@@ -352,13 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Tue, 12 Aug 2025 16:11:38 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2952</guid>
-    </item>
-    <item>
-      <title>TENDER INVITATION</title>
-      <link>https://aust.edu/notice/2949</link>
-      <description>Ahsanullah University of Science and Tec...Read More</description>
-      <pubDate>Mon, 11 Aug 2025 08:15:17 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2949</guid>
     </item>
   </channel>
 </rss>
