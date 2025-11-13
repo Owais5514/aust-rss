@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 12 Nov 2025 16:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:12:08 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251112.161342</version>
+    <version>1.0.20251113.161208</version>
+    <item>
+      <title>Graduate Notification: Master of Business Administration (Ex...</title>
+      <link>https://aust.edu/notice/3057</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3057</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Business Administration, Sp...</title>
+      <link>https://aust.edu/notice/3056</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3056</guid>
+    </item>
     <item>
       <title>List of selected Candidates for PG Program, Department of EE...</title>
       <link>https://aust.edu/notice/3055</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 13 Aug 2025 08:13:31 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2955</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://aust.edu/notice/2953</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 12 Aug 2025 16:11:38 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2953</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://aust.edu/notice/2952</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 12 Aug 2025 16:11:38 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2952</guid>
     </item>
   </channel>
 </rss>
