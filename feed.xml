@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 16:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 16:12:45 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251124.161025</version>
+    <version>1.0.20251125.161245</version>
+    <item>
+      <title>Graduate Notification: Master of Architecture, Fall 2024</title>
+      <link>https://aust.edu/notice/3063</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Tue, 25 Nov 2025 16:12:45 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3063</guid>
+    </item>
     <item>
       <title>Notification (Bus Service)</title>
       <link>https://aust.edu/notice/3062</link>
@@ -352,13 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Tue, 19 Aug 2025 08:13:06 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2960</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
-      <link>https://aust.edu/notice/2959</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 17 Aug 2025 16:09:46 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2959</guid>
     </item>
   </channel>
 </rss>
