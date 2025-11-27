@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 16:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 08:14:45 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251125.161245</version>
+    <version>1.0.20251127.081445</version>
+    <item>
+      <title>Reception and Orientation Program for newly admitted student...</title>
+      <link>https://aust.edu/notice/3065</link>
+      <description>The Reception and Orientation Program fo...Read More</description>
+      <pubDate>Thu, 27 Nov 2025 08:14:45 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3065</guid>
+    </item>
+    <item>
+      <title>Notice for Course Registration and Admission of M.Sc. Progra...</title>
+      <link>https://aust.edu/notice/3064</link>
+      <description>All the students of Master's Program (Sp...Read More</description>
+      <pubDate>Thu, 27 Nov 2025 08:14:45 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3064</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Architecture, Fall 2024</title>
       <link>https://aust.edu/notice/3063</link>
@@ -345,20 +359,6 @@
       <description>As per application of all Vice President...Read More</description>
       <pubDate>Sun, 24 Aug 2025 08:10:41 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2962</guid>
-    </item>
-    <item>
-      <title>Job Opportunity: Research Assistant for AUST Internal Resear...</title>
-      <link>https://aust.edu/notice/2961</link>
-      <description>The Division of Mathematics under the De...Read More</description>
-      <pubDate>Thu, 21 Aug 2025 08:13:11 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2961</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://aust.edu/notice/2960</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 19 Aug 2025 08:13:06 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2960</guid>
     </item>
   </channel>
 </rss>
