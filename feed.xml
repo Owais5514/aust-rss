@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 08:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 16:11:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251127.081445</version>
+    <version>1.0.20251127.161142</version>
+    <item>
+      <title>Vacancy announcement for: Lecturer (Grade-II) : English (ELT...</title>
+      <link>https://aust.edu/notice/3066</link>
+      <description>Interested candidates are requested to s...Read More</description>
+      <pubDate>Thu, 27 Nov 2025 16:11:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3066</guid>
+    </item>
     <item>
       <title>Reception and Orientation Program for newly admitted student...</title>
       <link>https://aust.edu/notice/3065</link>
@@ -352,13 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Mon, 25 Aug 2025 08:14:08 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2966</guid>
-    </item>
-    <item>
-      <title>Office Order</title>
-      <link>https://aust.edu/notice/2962</link>
-      <description>As per application of all Vice President...Read More</description>
-      <pubDate>Sun, 24 Aug 2025 08:10:41 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2962</guid>
     </item>
   </channel>
 </rss>
