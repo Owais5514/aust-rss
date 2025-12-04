@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 16:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 16:13:34 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251127.161142</version>
+    <version>1.0.20251204.161334</version>
+    <item>
+      <title>Notice</title>
+      <link>https://aust.edu/notice/3069</link>
+      <description>This is to inform all students, faculty ...Read More</description>
+      <pubDate>Thu, 04 Dec 2025 16:13:34 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3069</guid>
+    </item>
+    <item>
+      <title>Academic Calendar (Spring 2025)</title>
+      <link>https://aust.edu/notice/3068</link>
+      <description>As per decision of the 15th Academic Aff...Read More</description>
+      <pubDate>Thu, 04 Dec 2025 16:13:34 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3068</guid>
+    </item>
     <item>
       <title>Vacancy announcement for: Lecturer (Grade-II) : English (ELT...</title>
       <link>https://aust.edu/notice/3066</link>
@@ -345,20 +359,6 @@
       <description>In supersession of the Office Order No. ...Read More</description>
       <pubDate>Tue, 26 Aug 2025 08:13:44 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2969</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://aust.edu/notice/2967</link>
-      <description>In continuation ofthe notification no. N...Read More</description>
-      <pubDate>Mon, 25 Aug 2025 08:14:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2967</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://aust.edu/notice/2966</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Mon, 25 Aug 2025 08:14:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2966</guid>
     </item>
   </channel>
 </rss>
