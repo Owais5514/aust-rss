@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 07 Dec 2025 16:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 08:16:10 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251207.160946</version>
+    <version>1.0.20251208.081610</version>
+    <item>
+      <title>Job Opportunity from Nadia Furniture Limited for IPE Graduat...</title>
+      <link>https://aust.edu/notice/3079</link>
+      <description>....Read More</description>
+      <pubDate>Mon, 08 Dec 2025 08:16:10 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3079</guid>
+    </item>
     <item>
       <title>Notification (Parking instruction)</title>
       <link>https://aust.edu/notice/3077</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2973</guid>
-    </item>
-    <item>
-      <title>Notice (Fire Drill)</title>
-      <link>https://aust.edu/notice/2971</link>
-      <description>This is for information of all concerned...Read More</description>
-      <pubDate>Tue, 26 Aug 2025 16:10:36 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2971</guid>
     </item>
   </channel>
 </rss>
