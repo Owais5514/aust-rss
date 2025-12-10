@@ -7,9 +7,37 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 08:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 08:14:27 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251208.081610</version>
+    <version>1.0.20251210.081427</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://aust.edu/notice/3083</link>
+      <description>In continuation ofthe notification no. N...Read More</description>
+      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3083</guid>
+    </item>
+    <item>
+      <title>Offered Courses for Spring 2025 (M.S. in Mathematics)</title>
+      <link>https://aust.edu/notice/3082</link>
+      <description>The students of M.S. in Mathematics Prog...Read More</description>
+      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3082</guid>
+    </item>
+    <item>
+      <title>Class Routine, Spring 2025 (M. S. Program in Mathematics)</title>
+      <link>https://aust.edu/notice/3081</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3081</guid>
+    </item>
+    <item>
+      <title>Academic Calendar, Spring 2025 Semester (Department of Arts...</title>
+      <link>https://aust.edu/notice/3080</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3080</guid>
+    </item>
     <item>
       <title>Job Opportunity from Nadia Furniture Limited for IPE Graduat...</title>
       <link>https://aust.edu/notice/3079</link>
@@ -331,34 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 02 Sep 2025 16:10:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2978</guid>
-    </item>
-    <item>
-      <title>বিবৃতি</title>
-      <link>https://aust.edu/notice/2976</link>
-      <description>....Read More</description>
-      <pubDate>Thu, 28 Aug 2025 08:12:20 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2976</guid>
-    </item>
-    <item>
-      <title>Notification - Tuition Award (Sibling/Spouse)</title>
-      <link>https://aust.edu/notice/2975</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2975</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Education, Fall 2024</title>
-      <link>https://aust.edu/notice/2974</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2974</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
-      <link>https://aust.edu/notice/2973</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 27 Aug 2025 08:12:15 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2973</guid>
     </item>
   </channel>
 </rss>
