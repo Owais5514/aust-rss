@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 10 Dec 2025 16:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:15:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251210.161439</version>
+    <version>1.0.20251211.081535</version>
+    <item>
+      <title>Notification (Victory Day)</title>
+      <link>https://aust.edu/notice/3087</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 11 Dec 2025 08:15:35 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3087</guid>
+    </item>
+    <item>
+      <title>Notification regarding Distress Students' Welfare Fund (DSWF...</title>
+      <link>https://aust.edu/notice/3086</link>
+      <description>Application in prescribed form (availabl...Read More</description>
+      <pubDate>Thu, 11 Dec 2025 08:15:35 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3086</guid>
+    </item>
+    <item>
+      <title>Call for Research Proposal for AUST Student Research Grant (...</title>
+      <link>https://aust.edu/notice/3085</link>
+      <description>ln order to facititate the research acti...Read More</description>
+      <pubDate>Thu, 11 Dec 2025 08:15:35 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3085</guid>
+    </item>
     <item>
       <title>বিজ্ঞপ্তি</title>
       <link>https://aust.edu/notice/3084</link>
@@ -338,27 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 04 Sep 2025 16:10:26 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/2983</guid>
-    </item>
-    <item>
-      <title>Notification (Eid-e-Miladunnabi)</title>
-      <link>https://aust.edu/notice/2982</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 04 Sep 2025 16:10:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2982</guid>
-    </item>
-    <item>
-      <title>Notification (Improvement Examination - MBA/EMBA)</title>
-      <link>https://aust.edu/notice/2981</link>
-      <description>Student who want to appear at Improvemen...Read More</description>
-      <pubDate>Wed, 03 Sep 2025 08:12:24 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2981</guid>
-    </item>
-    <item>
-      <title>Office Order - Tuition Award (FF Quota)</title>
-      <link>https://aust.edu/notice/2979</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 02 Sep 2025 16:10:26 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/2979</guid>
     </item>
   </channel>
 </rss>
