@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 16:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 16:12:17 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251217.161352</version>
+    <version>1.0.20251222.161217</version>
+    <item>
+      <title>Notification (Christmas Day)</title>
+      <link>https://aust.edu/notice/3095</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Mon, 22 Dec 2025 16:12:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3095</guid>
+    </item>
     <item>
       <title>Notification (ID Card)</title>
       <link>https://aust.edu/notice/3092</link>
@@ -352,13 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Sat, 13 Sep 2025 00:44:17 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3016</guid>
-    </item>
-    <item>
-      <title>JOB OPPORTUNITY: Research Assistant for AUST Internal Resear...</title>
-      <link>https://aust.edu/notice/3015</link>
-      <description>....Read More</description>
-      <pubDate>Sat, 13 Sep 2025 00:44:17 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3015</guid>
     </item>
   </channel>
 </rss>
