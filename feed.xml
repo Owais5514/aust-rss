@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 00:47:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 16:12:47 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251230.004756</version>
+    <version>1.0.20251230.161247</version>
+    <item>
+      <title>NOTIFICATION</title>
+      <link>https://aust.edu/notice/3111</link>
+      <description>In pursuance of the Notification issued ...Read More</description>
+      <pubDate>Tue, 30 Dec 2025 16:12:47 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3111</guid>
+    </item>
     <item>
       <title>NOTIFICATION (SIBLING/SPOUSE QUOTA)</title>
       <link>https://aust.edu/notice/3110</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Sun, 26 Oct 2025 16:09:29 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3045</guid>
-    </item>
-    <item>
-      <title>Master of Science in Mathematics, Fall 2024</title>
-      <link>https://aust.edu/notice/3044</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 26 Oct 2025 16:09:29 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3044</guid>
     </item>
   </channel>
 </rss>
