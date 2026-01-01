@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 16:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 16:12:33 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20251230.161247</version>
+    <version>1.0.20260101.161233</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
+      <link>https://aust.edu/notice/3112</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Thu, 01 Jan 2026 16:12:33 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3112</guid>
+    </item>
     <item>
       <title>NOTIFICATION</title>
       <link>https://aust.edu/notice/3111</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Thu, 30 Oct 2025 16:11:50 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3046</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Carryover/Clearance/Improvement Examina...</title>
-      <link>https://aust.edu/notice/3045</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 26 Oct 2025 16:09:29 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3045</guid>
     </item>
   </channel>
 </rss>
