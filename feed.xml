@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 08:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 16:10:48 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260104.081347</version>
+    <version>1.0.20260104.161048</version>
+    <item>
+      <title>Procedures of Research Assistant (RA) Recruitment and Procur...</title>
+      <link>https://aust.edu/notice/3115</link>
+      <description>It is kind information to all concerned ...Read More</description>
+      <pubDate>Sun, 04 Jan 2026 16:10:48 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3115</guid>
+    </item>
+    <item>
+      <title>Notification Regarding Financial Support for Conference Part...</title>
+      <link>https://aust.edu/notice/3114</link>
+      <description>It is kind information to all eoncerned ...Read More</description>
+      <pubDate>Sun, 04 Jan 2026 16:10:48 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3114</guid>
+    </item>
     <item>
       <title>নোটিশ: উচ্চতর বেতন স্কেল প্রাপ্তির আবেদন</title>
       <link>https://aust.edu/notice/3113</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 04 Nov 2025 16:12:09 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3050</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Business Administration,...</title>
-      <link>https://aust.edu/notice/3049</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 04 Nov 2025 08:13:29 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3049</guid>
-    </item>
-    <item>
-      <title>Tender Notice</title>
-      <link>https://aust.edu/notice/3048</link>
-      <description>....Read More</description>
-      <pubDate>Sun, 02 Nov 2025 16:09:07 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3048</guid>
     </item>
   </channel>
 </rss>
