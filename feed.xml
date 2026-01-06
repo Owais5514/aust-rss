@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 16:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:15:44 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260104.161048</version>
+    <version>1.0.20260106.081544</version>
+    <item>
+      <title>Notification: Payment for Semester Fees and Re-admission, Sp...</title>
+      <link>https://aust.edu/notice/3123</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3123</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Business Administration, Fa...</title>
+      <link>https://aust.edu/notice/3122</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3122</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Business Administration (Ex...</title>
+      <link>https://aust.edu/notice/3121</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3121</guid>
+    </item>
     <item>
       <title>Procedures of Research Assistant (RA) Recruitment and Procur...</title>
       <link>https://aust.edu/notice/3115</link>
@@ -338,27 +359,6 @@
       <description>This is to notify at[ concerned students...Read More</description>
       <pubDate>Mon, 10 Nov 2025 16:11:49 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3054</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Architecture, Fall 2024</title>
-      <link>https://aust.edu/notice/3053</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Mon, 10 Nov 2025 08:14:46 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3053</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Textile Engine...</title>
-      <link>https://aust.edu/notice/3051</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 05 Nov 2025 08:13:36 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3051</guid>
-    </item>
-    <item>
-      <title>Notification regarding Web Coordinator</title>
-      <link>https://aust.edu/notice/3050</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 04 Nov 2025 16:12:09 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3050</guid>
     </item>
   </channel>
 </rss>
