@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 08:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 16:15:14 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260107.081523</version>
+    <version>1.0.20260107.161514</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Electrical and E...</title>
+      <link>https://aust.edu/notice/3127</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Wed, 07 Jan 2026 16:15:14 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3127</guid>
+    </item>
     <item>
       <title>Research Assistant for AUST Internal Research Project (ARP/2...</title>
       <link>https://aust.edu/notice/3126</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3057</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration, Sp...</title>
-      <link>https://aust.edu/notice/3056</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3056</guid>
     </item>
   </channel>
 </rss>
