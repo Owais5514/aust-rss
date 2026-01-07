@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 08:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:15:23 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260106.081544</version>
+    <version>1.0.20260107.081523</version>
+    <item>
+      <title>Research Assistant for AUST Internal Research Project (ARP/2...</title>
+      <link>https://aust.edu/notice/3126</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 07 Jan 2026 08:15:23 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3126</guid>
+    </item>
+    <item>
+      <title>Research Assistant for AUST Internal Research Project (AIRG/...</title>
+      <link>https://aust.edu/notice/3125</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 07 Jan 2026 08:15:23 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3125</guid>
+    </item>
     <item>
       <title>Notification: Payment for Semester Fees and Re-admission, Sp...</title>
       <link>https://aust.edu/notice/3123</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3056</guid>
-    </item>
-    <item>
-      <title>List of selected Candidates for PG Program, Department of EE...</title>
-      <link>https://aust.edu/notice/3055</link>
-      <description>The following candidates have been selec...Read More</description>
-      <pubDate>Wed, 12 Nov 2025 16:13:42 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3055</guid>
-    </item>
-    <item>
-      <title>Notification on List of Awarded Projects under AUST Student...</title>
-      <link>https://aust.edu/notice/3054</link>
-      <description>This is to notify at[ concerned students...Read More</description>
-      <pubDate>Mon, 10 Nov 2025 16:11:49 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3054</guid>
     </item>
   </channel>
 </rss>
