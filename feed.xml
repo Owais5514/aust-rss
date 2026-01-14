@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 16:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 08:15:08 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260107.161514</version>
+    <version>1.0.20260114.081508</version>
+    <item>
+      <title>Payment Notice of Semester Fees (MBA/EMBA): Spring 2025</title>
+      <link>https://aust.edu/notice/3132</link>
+      <description>All the students of MBA/EMBA Program are...Read More</description>
+      <pubDate>Wed, 14 Jan 2026 08:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3132</guid>
+    </item>
+    <item>
+      <title>Academic Calendar (MBA/EMBA): Spring 2025 Semester</title>
+      <link>https://aust.edu/notice/3131</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 14 Jan 2026 08:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3131</guid>
+    </item>
+    <item>
+      <title>Notification (Grade Sheet)</title>
+      <link>https://aust.edu/notice/3128</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 08 Jan 2026 08:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3128</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Electrical and E...</title>
       <link>https://aust.edu/notice/3127</link>
@@ -338,27 +359,6 @@
       <description>This is for information of all concerned...Read More</description>
       <pubDate>Mon, 24 Nov 2025 16:10:25 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3062</guid>
-    </item>
-    <item>
-      <title>Selected Candidates for Admission into the MS in Mathematics...</title>
-      <link>https://aust.edu/notice/3061</link>
-      <description>The admission interviews for the MS in M...Read More</description>
-      <pubDate>Sun, 23 Nov 2025 08:11:59 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3061</guid>
-    </item>
-    <item>
-      <title>AUST Policy Guidelines for Financial Support for Conference...</title>
-      <link>https://aust.edu/notice/3059</link>
-      <description>This is to notify all the faculty member...Read More</description>
-      <pubDate>Tue, 18 Nov 2025 16:12:06 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3059</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration (Ex...</title>
-      <link>https://aust.edu/notice/3057</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 13 Nov 2025 16:12:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3057</guid>
     </item>
   </channel>
 </rss>
