@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 16:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:16:14 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260120.161928</version>
+    <version>1.0.20260121.081614</version>
+    <item>
+      <title>Schedule of Semester Midterm Examination: Spring 2025</title>
+      <link>https://aust.edu/notice/3141</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 21 Jan 2026 08:16:14 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3141</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
       <link>https://aust.edu/notice/3140</link>
@@ -352,13 +359,6 @@
       <description>This is to inform all students, faculty ...Read More</description>
       <pubDate>Thu, 04 Dec 2025 16:13:34 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3069</guid>
-    </item>
-    <item>
-      <title>Academic Calendar (Spring 2025)</title>
-      <link>https://aust.edu/notice/3068</link>
-      <description>As per decision of the 15th Academic Aff...Read More</description>
-      <pubDate>Thu, 04 Dec 2025 16:13:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3068</guid>
     </item>
   </channel>
 </rss>
