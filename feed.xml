@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 08:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 08:13:36 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260121.081614</version>
+    <version>1.0.20260125.081336</version>
+    <item>
+      <title>Tuition Award (FFTA/HFTA)</title>
+      <link>https://aust.edu/notice/3148</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3148</guid>
+    </item>
+    <item>
+      <title>Invitation to: UIT MONOGRAM DESIGN COMPETITION 2026</title>
+      <link>https://aust.edu/notice/3146</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3146</guid>
+    </item>
+    <item>
+      <title>Job Opportunity: Research Assistant for AUST Internal Resear...</title>
+      <link>https://aust.edu/notice/3145</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3145</guid>
+    </item>
     <item>
       <title>Schedule of Semester Midterm Examination: Spring 2025</title>
       <link>https://aust.edu/notice/3141</link>
@@ -338,27 +359,6 @@
       <description>....Read More</description>
       <pubDate>Mon, 08 Dec 2025 08:16:10 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3079</guid>
-    </item>
-    <item>
-      <title>Notification (Parking instruction)</title>
-      <link>https://aust.edu/notice/3077</link>
-      <description>l'his is for information of all concerne...Read More</description>
-      <pubDate>Sun, 07 Dec 2025 16:09:45 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3077</guid>
-    </item>
-    <item>
-      <title>Office Order (Holidays List for 2026)</title>
-      <link>https://aust.edu/notice/3075</link>
-      <description>....Read More</description>
-      <pubDate>Sat, 06 Dec 2025 00:43:33 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3075</guid>
-    </item>
-    <item>
-      <title>Notice</title>
-      <link>https://aust.edu/notice/3069</link>
-      <description>This is to inform all students, faculty ...Read More</description>
-      <pubDate>Thu, 04 Dec 2025 16:13:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3069</guid>
     </item>
   </channel>
 </rss>
