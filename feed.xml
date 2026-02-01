@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 28 Jan 2026 16:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:14:15 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260128.162117</version>
+    <version>1.0.20260201.161415</version>
+    <item>
+      <title>Office Order</title>
+      <link>https://aust.edu/notice/3153</link>
+      <description>As per executive order, the Government o...Read More</description>
+      <pubDate>Sun, 01 Feb 2026 16:14:15 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3153</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://aust.edu/notice/3151</link>
@@ -352,13 +359,6 @@
       <description>The students of M.S. in Mathematics Prog...Read More</description>
       <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3082</guid>
-    </item>
-    <item>
-      <title>Class Routine, Spring 2025 (M. S. Program in Mathematics)</title>
-      <link>https://aust.edu/notice/3081</link>
-      <description>....Read More</description>
-      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3081</guid>
     </item>
   </channel>
 </rss>
