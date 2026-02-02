@@ -7,9 +7,9 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 16:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 16:22:45 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260201.161415</version>
+    <version>1.0.20260202.162245</version>
     <item>
       <title>Office Order</title>
       <link>https://aust.edu/notice/3153</link>
@@ -51,6 +51,13 @@
       <description>....Read More</description>
       <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3145</guid>
+    </item>
+    <item>
+      <title>Office Order</title>
+      <link>https://aust.edu/notice/3154</link>
+      <description>Mr. Emdadul Haque, Associate Professor a...Read More</description>
+      <pubDate>Wed, 21 Jan 2026 16:22:45 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3154</guid>
     </item>
     <item>
       <title>Schedule of Semester Midterm Examination: Spring 2025</title>
@@ -352,13 +359,6 @@
       <description>In continuation ofthe notification no. N...Read More</description>
       <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3083</guid>
-    </item>
-    <item>
-      <title>Offered Courses for Spring 2025 (M.S. in Mathematics)</title>
-      <link>https://aust.edu/notice/3082</link>
-      <description>The students of M.S. in Mathematics Prog...Read More</description>
-      <pubDate>Wed, 10 Dec 2025 08:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3082</guid>
     </item>
   </channel>
 </rss>
