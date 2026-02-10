@@ -7,9 +7,37 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 08:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 17:03:43 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260210.083630</version>
+    <version>1.0.20260210.170343</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
+      <link>https://aust.edu/notice/3172</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Tue, 10 Feb 2026 17:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3172</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://aust.edu/notice/3171</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Tue, 10 Feb 2026 17:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3171</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
+      <link>https://aust.edu/notice/3170</link>
+      <description>In continuation of the notification No ....Read More</description>
+      <pubDate>Tue, 10 Feb 2026 17:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3170</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of science in Electrical and E...</title>
+      <link>https://aust.edu/notice/3169</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Tue, 10 Feb 2026 17:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3169</guid>
+    </item>
     <item>
       <title>Notification</title>
       <link>https://aust.edu/notice/3165</link>
@@ -331,34 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Mon, 22 Dec 2025 16:12:17 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3095</guid>
-    </item>
-    <item>
-      <title>Notification (ID Card)</title>
-      <link>https://aust.edu/notice/3092</link>
-      <description>In pursuance of the decision of the 22&quot;d...Read More</description>
-      <pubDate>Wed, 17 Dec 2025 16:13:52 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3092</guid>
-    </item>
-    <item>
-      <title>INVITATION OF TENDER FOR FOOLPROOF ATTENDANCE SYSTEM (TECHNI...</title>
-      <link>https://aust.edu/notice/3091</link>
-      <description>Sealed Tender both for Technical and Fin...Read More</description>
-      <pubDate>Mon, 15 Dec 2025 16:14:54 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3091</guid>
-    </item>
-    <item>
-      <title>Tuition Award - FFTA &amp; HFTA</title>
-      <link>https://aust.edu/notice/3090</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Mon, 15 Dec 2025 08:16:45 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3090</guid>
-    </item>
-    <item>
-      <title>Notice for M.Sc. in EEE</title>
-      <link>https://aust.edu/notice/3089</link>
-      <description>All the students of Master's Program (Sp...Read More</description>
-      <pubDate>Sun, 14 Dec 2025 16:10:29 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3089</guid>
     </item>
   </channel>
 </rss>
