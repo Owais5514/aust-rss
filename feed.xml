@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 16:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:36:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260208.161533</version>
+    <version>1.0.20260210.083630</version>
+    <item>
+      <title>Notification</title>
+      <link>https://aust.edu/notice/3165</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Tue, 10 Feb 2026 08:36:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3165</guid>
+    </item>
+    <item>
+      <title>Extension of the Submission Deadline (ASRG)</title>
+      <link>https://aust.edu/notice/3163</link>
+      <description>We have received a number of verbaI requ...Read More</description>
+      <pubDate>Tue, 10 Feb 2026 08:36:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3163</guid>
+    </item>
     <item>
       <title>Revised Notification: Payment of Semester Fees and Re-admiss...</title>
       <link>https://aust.edu/notice/3158</link>
@@ -345,20 +359,6 @@
       <description>All the students of Master's Program (Sp...Read More</description>
       <pubDate>Sun, 14 Dec 2025 16:10:29 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3089</guid>
-    </item>
-    <item>
-      <title>Notification (Victory Day)</title>
-      <link>https://aust.edu/notice/3087</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 11 Dec 2025 08:15:35 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3087</guid>
-    </item>
-    <item>
-      <title>Notification regarding Distress Students' Welfare Fund (DSWF...</title>
-      <link>https://aust.edu/notice/3086</link>
-      <description>Application in prescribed form (availabl...Read More</description>
-      <pubDate>Thu, 11 Dec 2025 08:15:35 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3086</guid>
     </item>
   </channel>
 </rss>
