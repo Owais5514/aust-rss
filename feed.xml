@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 08:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 16:28:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260216.083212</version>
+    <version>1.0.20260216.162830</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://aust.edu/notice/3175</link>
+      <description>In continuation ofthe notification no. N...Read More</description>
+      <pubDate>Mon, 16 Feb 2026 16:28:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3175</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
+      <link>https://aust.edu/notice/3174</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Mon, 16 Feb 2026 16:28:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3174</guid>
+    </item>
     <item>
       <title>Notification (Office hours in Ramadan)</title>
       <link>https://aust.edu/notice/3173</link>
@@ -345,20 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3098</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://aust.edu/notice/3097</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3097</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
-      <link>https://aust.edu/notice/3096</link>
-      <description>In continuation ofthe notification no. N...Read More</description>
-      <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3096</guid>
     </item>
   </channel>
 </rss>
