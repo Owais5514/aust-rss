@@ -7,9 +7,9 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 08:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 16:14:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260219.082927</version>
+    <version>1.0.20260222.161442</version>
     <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://aust.edu/notice/3180</link>
@@ -44,6 +44,13 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 17 Feb 2026 16:41:59 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3176</guid>
+    </item>
+    <item>
+      <title>বিজ্ঞপ্তি (শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস  - ২০২৬)</title>
+      <link>https://aust.edu/notice/3182</link>
+      <description>....Read More</description>
+      <pubDate>Tue, 17 Feb 2026 16:14:42 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3182</guid>
     </item>
     <item>
       <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3104</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
-      <link>https://aust.edu/notice/3103</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3103</guid>
     </item>
   </channel>
 </rss>
