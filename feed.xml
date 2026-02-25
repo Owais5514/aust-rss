@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 25 Feb 2026 01:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:33:43 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260225.010604</version>
+    <version>1.0.20260225.083343</version>
+    <item>
+      <title>Extension of dates for payment of Semester Fees (MBA/EMBA Pr...</title>
+      <link>https://aust.edu/notice/3187</link>
+      <description>All the students of MBA/EMBA Program are...Read More</description>
+      <pubDate>Wed, 25 Feb 2026 08:33:43 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3187</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://aust.edu/notice/3185</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3106</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Business Administration,...</title>
-      <link>https://aust.edu/notice/3105</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3105</guid>
     </item>
   </channel>
 </rss>
