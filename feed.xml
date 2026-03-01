@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 08:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 16:13:30 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260301.081627</version>
+    <version>1.0.20260301.161330</version>
+    <item>
+      <title>Revised Academic Calendar (Spring 2025 Semester)</title>
+      <link>https://aust.edu/notice/3195</link>
+      <description>As per decision of the 20th Academic Aff...Read More</description>
+      <pubDate>Sun, 01 Mar 2026 16:13:30 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3195</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
       <link>https://aust.edu/notice/3194</link>
@@ -352,13 +359,6 @@
       <description>In pursuance of the Notification issued ...Read More</description>
       <pubDate>Tue, 30 Dec 2025 16:12:47 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3111</guid>
-    </item>
-    <item>
-      <title>NOTIFICATION (SIBLING/SPOUSE QUOTA)</title>
-      <link>https://aust.edu/notice/3110</link>
-      <description>It is hereby notified that the students,...Read More</description>
-      <pubDate>Tue, 30 Dec 2025 00:47:56 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3110</guid>
     </item>
   </channel>
 </rss>
