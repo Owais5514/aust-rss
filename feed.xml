@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 25 Feb 2026 08:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 08:16:27 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260225.083343</version>
+    <version>1.0.20260301.081627</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://aust.edu/notice/3194</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 01 Mar 2026 08:16:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3194</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://aust.edu/notice/3193</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 01 Mar 2026 08:16:27 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3193</guid>
+    </item>
     <item>
       <title>Extension of dates for payment of Semester Fees (MBA/EMBA Pr...</title>
       <link>https://aust.edu/notice/3187</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified that the students,...Read More</description>
       <pubDate>Tue, 30 Dec 2025 00:47:56 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3110</guid>
-    </item>
-    <item>
-      <title>NOTICE REGARDING GOVT. SCHOLARSHIP</title>
-      <link>https://aust.edu/notice/3108</link>
-      <description>This is for information of all concerned...Read More</description>
-      <pubDate>Thu, 25 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3108</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Architecture, Fall 2024</title>
-      <link>https://aust.edu/notice/3106</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 24 Dec 2025 00:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3106</guid>
     </item>
   </channel>
 </rss>
