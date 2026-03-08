@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 17:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 16:14:17 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260305.175754</version>
+    <version>1.0.20260308.161417</version>
+    <item>
+      <title>Notification (Independence and National Day)</title>
+      <link>https://aust.edu/notice/3208</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 08 Mar 2026 16:14:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3208</guid>
+    </item>
+    <item>
+      <title>Academic Calendar (MBA/EMBA)</title>
+      <link>https://aust.edu/notice/3207</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 08 Mar 2026 16:14:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3207</guid>
+    </item>
+    <item>
+      <title>Tuition Award: Distress students' welfare Fund</title>
+      <link>https://aust.edu/notice/3206</link>
+      <description>It is hereby notified for the informatio...Read More</description>
+      <pubDate>Sun, 08 Mar 2026 16:14:17 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3206</guid>
+    </item>
     <item>
       <title>Notification: Carry, Imporvement Application Spring 2025</title>
       <link>https://aust.edu/notice/3201</link>
@@ -338,27 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3123</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration, Fa...</title>
-      <link>https://aust.edu/notice/3122</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3122</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration (Ex...</title>
-      <link>https://aust.edu/notice/3121</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 06 Jan 2026 08:15:44 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3121</guid>
-    </item>
-    <item>
-      <title>Procedures of Research Assistant (RA) Recruitment and Procur...</title>
-      <link>https://aust.edu/notice/3115</link>
-      <description>It is kind information to all concerned ...Read More</description>
-      <pubDate>Sun, 04 Jan 2026 16:10:48 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3115</guid>
     </item>
   </channel>
 </rss>
