@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 01:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:43:32 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260309.010149</version>
+    <version>1.0.20260309.164332</version>
+    <item>
+      <title>Notification</title>
+      <link>https://aust.edu/notice/3210</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Mon, 09 Mar 2026 16:43:32 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3210</guid>
+    </item>
     <item>
       <title>Notification (Independence and National Day)</title>
       <link>https://aust.edu/notice/3208</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Wed, 07 Jan 2026 08:15:23 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3126</guid>
-    </item>
-    <item>
-      <title>Research Assistant for AUST Internal Research Project (AIRG/...</title>
-      <link>https://aust.edu/notice/3125</link>
-      <description>....Read More</description>
-      <pubDate>Wed, 07 Jan 2026 08:15:23 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3125</guid>
     </item>
   </channel>
 </rss>
