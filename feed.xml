@@ -7,9 +7,37 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 16:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 01:00:08 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260311.163736</version>
+    <version>1.0.20260313.010008</version>
+    <item>
+      <title>Notification regarding requisition of Vehicle</title>
+      <link>https://aust.edu/notice/3215</link>
+      <description>This is for information of all Faculty M...Read More</description>
+      <pubDate>Thu, 12 Mar 2026 01:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3215</guid>
+    </item>
+    <item>
+      <title>নোটিশ (বিদ্যুৎ ও জ্বালানি সাশ্রয়)</title>
+      <link>https://aust.edu/notice/3214</link>
+      <description>....Read More</description>
+      <pubDate>Thu, 12 Mar 2026 01:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3214</guid>
+    </item>
+    <item>
+      <title>IEEE MARSCON 2026 (Aug 13-14, 2026): International Conferenc...</title>
+      <link>https://aust.edu/notice/3213</link>
+      <description>....Read More</description>
+      <pubDate>Thu, 12 Mar 2026 01:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3213</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://aust.edu/notice/3212</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Thu, 12 Mar 2026 01:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3212</guid>
+    </item>
     <item>
       <title>Half Free Tuition Award (Sibling/Spouse)</title>
       <link>https://aust.edu/notice/3211</link>
@@ -331,34 +359,6 @@
       <description>To facilitate research activities among ...Read More</description>
       <pubDate>Thu, 15 Jan 2026 16:19:54 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3134</guid>
-    </item>
-    <item>
-      <title>Payment Notice of Semester Fees (MBA/EMBA): Spring 2025</title>
-      <link>https://aust.edu/notice/3132</link>
-      <description>All the students of MBA/EMBA Program are...Read More</description>
-      <pubDate>Wed, 14 Jan 2026 08:15:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3132</guid>
-    </item>
-    <item>
-      <title>Academic Calendar (MBA/EMBA): Spring 2025 Semester</title>
-      <link>https://aust.edu/notice/3131</link>
-      <description>....Read More</description>
-      <pubDate>Wed, 14 Jan 2026 08:15:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3131</guid>
-    </item>
-    <item>
-      <title>Notification (Grade Sheet)</title>
-      <link>https://aust.edu/notice/3128</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 08 Jan 2026 08:15:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3128</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://aust.edu/notice/3127</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 07 Jan 2026 16:15:14 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3127</guid>
     </item>
   </channel>
 </rss>
