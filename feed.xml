@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 01:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:58:45 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260403.011035</version>
+    <version>1.0.20260406.085845</version>
+    <item>
+      <title>Schedule of Semester Final Examinations: Spring 2025</title>
+      <link>https://aust.edu/notice/3220</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Mon, 06 Apr 2026 08:58:45 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3220</guid>
+    </item>
     <item>
       <title>Farewell Ceremony for Outgoing Students of Spring Semester -...</title>
       <link>https://aust.edu/notice/3219</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 20 Jan 2026 16:19:28 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3139</guid>
-    </item>
-    <item>
-      <title>Notification (Shab-e-Meraj)</title>
-      <link>https://aust.edu/notice/3136</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 15 Jan 2026 16:19:54 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3136</guid>
     </item>
   </channel>
 </rss>
