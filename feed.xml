@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 16:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 01:13:12 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260408.164907</version>
+    <version>1.0.20260410.011312</version>
+    <item>
+      <title>Application Deadline for 'Financial Support for Conference P...</title>
+      <link>https://aust.edu/notice/3226</link>
+      <description>This is to notify all faculty members an...Read More</description>
+      <pubDate>Fri, 10 Apr 2026 01:13:12 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3226</guid>
+    </item>
+    <item>
+      <title>Tuition Award (FFTA/HFTA)</title>
+      <link>https://aust.edu/notice/3223</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 09 Apr 2026 01:13:12 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3223</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
       <link>https://aust.edu/notice/3222</link>
@@ -345,20 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3145</guid>
-    </item>
-    <item>
-      <title>Office Order</title>
-      <link>https://aust.edu/notice/3154</link>
-      <description>Mr. Emdadul Haque, Associate Professor a...Read More</description>
-      <pubDate>Wed, 21 Jan 2026 16:22:45 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3154</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Midterm Examination: Spring 2025</title>
-      <link>https://aust.edu/notice/3141</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 21 Jan 2026 08:16:14 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3141</guid>
     </item>
   </channel>
 </rss>
