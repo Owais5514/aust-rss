@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 01:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:35:04 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260410.011312</version>
+    <version>1.0.20260412.083504</version>
+    <item>
+      <title>Submission deadline extended for IEEE MARSCON 2026. New subm...</title>
+      <link>https://aust.edu/notice/3227</link>
+      <description>IEEE International Conference on Microwa...Read More</description>
+      <pubDate>Sun, 12 Apr 2026 08:35:04 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3227</guid>
+    </item>
     <item>
       <title>Application Deadline for 'Financial Support for Conference P...</title>
       <link>https://aust.edu/notice/3226</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3146</guid>
-    </item>
-    <item>
-      <title>Job Opportunity: Research Assistant for AUST Internal Resear...</title>
-      <link>https://aust.edu/notice/3145</link>
-      <description>....Read More</description>
-      <pubDate>Sun, 25 Jan 2026 08:13:36 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3145</guid>
     </item>
   </channel>
 </rss>
