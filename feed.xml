@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 07 May 2026 17:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 16:39:01 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260507.172858</version>
+    <version>1.0.20260510.163901</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
+      <link>https://aust.edu/notice/3260</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 10 May 2026 16:39:01 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3260</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Textile Engine...</title>
+      <link>https://aust.edu/notice/3259</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 10 May 2026 16:39:01 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3259</guid>
+    </item>
+    <item>
+      <title>Research Assistant for AUST Internal Research Project (AIRG/...</title>
+      <link>https://aust.edu/notice/3258</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 10 May 2026 16:39:01 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3258</guid>
+    </item>
     <item>
       <title>নোটিশ (বিদ্যুৎ ও জ্বালানি সাশ্রয়)</title>
       <link>https://aust.edu/notice/3257</link>
@@ -338,27 +359,6 @@
       <description>In continuation ofthe notification no. N...Read More</description>
       <pubDate>Mon, 16 Feb 2026 16:28:30 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3175</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://aust.edu/notice/3174</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Mon, 16 Feb 2026 16:28:30 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3174</guid>
-    </item>
-    <item>
-      <title>Notification (Office hours in Ramadan)</title>
-      <link>https://aust.edu/notice/3173</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Mon, 16 Feb 2026 08:32:12 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3173</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://aust.edu/notice/3172</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 10 Feb 2026 17:03:43 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3172</guid>
     </item>
   </channel>
 </rss>
