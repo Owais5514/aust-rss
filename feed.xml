@@ -7,15 +7,29 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 19 May 2026 10:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:54:09 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260519.105104</version>
+    <version>1.0.20260519.175409</version>
+    <item>
+      <title>Notice for Admission Test of M.Sc./M.Engg. (EEE)</title>
+      <link>https://aust.edu/notice/3269</link>
+      <description>The following candidates for admission t...Read More</description>
+      <pubDate>Tue, 19 May 2026 17:54:09 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3269</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Mathematics, Spr...</title>
       <link>https://aust.edu/notice/3268</link>
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Tue, 19 May 2026 10:51:04 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3268</guid>
+    </item>
+    <item>
+      <title>Notice: MS in Mathematics program, Fall 2025</title>
+      <link>https://aust.edu/notice/3266</link>
+      <description>This is to notify that, in accordance wi...Read More</description>
+      <pubDate>Mon, 18 May 2026 17:54:09 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3266</guid>
     </item>
     <item>
       <title>Tuition Award (FFTA/HFTA)</title>
@@ -345,20 +359,6 @@
       <description>Ahsanullah University of Science and Tec...Read More</description>
       <pubDate>Tue, 24 Feb 2026 01:06:04 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3185</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://aust.edu/notice/3180</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Thu, 19 Feb 2026 08:29:27 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3180</guid>
-    </item>
-    <item>
-      <title>Extension of the Submission Deadline - Call for Research Pro...</title>
-      <link>https://aust.edu/notice/3179</link>
-      <description>We have received a number of requests fr...Read More</description>
-      <pubDate>Thu, 19 Feb 2026 08:29:27 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3179</guid>
     </item>
   </channel>
 </rss>
