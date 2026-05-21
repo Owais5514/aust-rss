@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 20 May 2026 10:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:55:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260520.103916</version>
+    <version>1.0.20260521.105542</version>
+    <item>
+      <title>Tuition Award: Remote and Undeveloped Area (RA)</title>
+      <link>https://www.aust.edu/notice/3273</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 21 May 2026 10:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3273</guid>
+    </item>
+    <item>
+      <title>Tuition Award: Freedom Fighter (FF) Quota</title>
+      <link>https://www.aust.edu/notice/3272</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 21 May 2026 10:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3272</guid>
+    </item>
+    <item>
+      <title>Merit List candidates for Admission into the M.S. in Mathema...</title>
+      <link>https://www.aust.edu/notice/3271</link>
+      <description>The admission interviews for the M.S. in...Read More</description>
+      <pubDate>Wed, 20 May 2026 10:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3271</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
       <link>https://www.aust.edu/notice/3270</link>
@@ -338,27 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Thu, 12 Mar 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3212</guid>
-    </item>
-    <item>
-      <title>Half Free Tuition Award (Sibling/Spouse)</title>
-      <link>https://www.aust.edu/notice/3211</link>
-      <description>In addition to the Notification No. AUST...Read More</description>
-      <pubDate>Wed, 11 Mar 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3211</guid>
-    </item>
-    <item>
-      <title>Notification</title>
-      <link>https://www.aust.edu/notice/3210</link>
-      <description>This is for information of all concerned...Read More</description>
-      <pubDate>Mon, 09 Mar 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3210</guid>
-    </item>
-    <item>
-      <title>Notification</title>
-      <link>https://www.aust.edu/notice/3209</link>
-      <description>In compliance with the Government direct...Read More</description>
-      <pubDate>Sun, 08 Mar 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3209</guid>
     </item>
   </channel>
 </rss>
