@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 02:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:26:43 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260603.023046</version>
+    <version>1.0.20260603.122643</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Business Administration,...</title>
+      <link>https://www.aust.edu/notice/3278</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3278</guid>
+    </item>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://www.aust.edu/notice/3277</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3277</guid>
+    </item>
+    <item>
+      <title>Tuition Award - Sibling/Spouse, Spring 2025</title>
+      <link>https://www.aust.edu/notice/3276</link>
+      <description>In addition to the Notification No. AUST...Read More</description>
+      <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3276</guid>
+    </item>
     <item>
       <title>Schedule (Revised) of Semester Carryover/Clearance/Improveme...</title>
       <link>https://www.aust.edu/notice/3275</link>
@@ -338,27 +359,6 @@
       <description>A farewell program for outgoing students...Read More</description>
       <pubDate>Fri, 03 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3219</guid>
-    </item>
-    <item>
-      <title>Extension of dates for payment of Semester Fees: Spring - 20...</title>
-      <link>https://www.aust.edu/notice/3218</link>
-      <description>All the students of MBA/EMBA Program are...Read More</description>
-      <pubDate>Wed, 01 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3218</guid>
-    </item>
-    <item>
-      <title>Notification regarding requisition of Vehicle</title>
-      <link>https://www.aust.edu/notice/3215</link>
-      <description>This is for information of all Faculty M...Read More</description>
-      <pubDate>Thu, 12 Mar 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3215</guid>
-    </item>
-    <item>
-      <title>নোটিশ (বিদ্যুৎ ও জ্বালানি সাশ্রয়)</title>
-      <link>https://www.aust.edu/notice/3214</link>
-      <description>....Read More</description>
-      <pubDate>Thu, 12 Mar 2026 02:30:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3214</guid>
     </item>
   </channel>
 </rss>
