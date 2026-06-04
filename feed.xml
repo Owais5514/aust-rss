@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 02:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:52:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260604.022754</version>
+    <version>1.0.20260604.105235</version>
+    <item>
+      <title>1st waiting list for Admission into MS in Mathematics Progra...</title>
+      <link>https://www.aust.edu/notice/3282</link>
+      <description>The admission interviews for the MS in M...Read More</description>
+      <pubDate>Thu, 04 Jun 2026 10:52:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3282</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Business Administration,...</title>
       <link>https://www.aust.edu/notice/3278</link>
@@ -352,13 +359,6 @@
       <description>School of Business (MBA &amp; EMBA Programs)...Read More</description>
       <pubDate>Tue, 07 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3221</guid>
-    </item>
-    <item>
-      <title>Farewell Ceremony for Outgoing Students of Spring Semester -...</title>
-      <link>https://www.aust.edu/notice/3219</link>
-      <description>A farewell program for outgoing students...Read More</description>
-      <pubDate>Fri, 03 Apr 2026 02:27:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3219</guid>
     </item>
   </channel>
 </rss>
