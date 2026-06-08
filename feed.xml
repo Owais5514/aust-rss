@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 02:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:18:16 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260608.021325</version>
+    <version>1.0.20260608.121816</version>
+    <item>
+      <title>Reception and Orientation Program for newly admitted student...</title>
+      <link>https://www.aust.edu/notice/3286</link>
+      <description>A reception and orientation program for ...Read More</description>
+      <pubDate>Mon, 08 Jun 2026 12:18:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3286</guid>
+    </item>
+    <item>
+      <title>Classes of Fall-2025 Semester of all Departments and all pro...</title>
+      <link>https://www.aust.edu/notice/3285</link>
+      <description>This is to inform all students, faculty ...Read More</description>
+      <pubDate>Mon, 08 Jun 2026 12:18:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3285</guid>
+    </item>
     <item>
       <title>List of selected Candidates for PG Program, Department of EE...</title>
       <link>https://www.aust.edu/notice/3284</link>
@@ -345,20 +359,6 @@
       <description>This is to notify all faculty members an...Read More</description>
       <pubDate>Fri, 10 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3226</guid>
-    </item>
-    <item>
-      <title>Tuition Award (FFTA/HFTA)</title>
-      <link>https://www.aust.edu/notice/3223</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 09 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3223</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://www.aust.edu/notice/3222</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 08 Apr 2026 02:13:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3222</guid>
     </item>
   </channel>
 </rss>
