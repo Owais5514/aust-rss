@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 02:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:28:14 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260610.020208</version>
+    <version>1.0.20260610.112814</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Electrical and E...</title>
+      <link>https://www.aust.edu/notice/3287</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 10 Jun 2026 11:28:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3287</guid>
+    </item>
     <item>
       <title>Reception and Orientation Program for newly admitted student...</title>
       <link>https://www.aust.edu/notice/3286</link>
@@ -347,18 +354,11 @@
       <guid isPermaLink="true">https://www.aust.edu/notice/3229</guid>
     </item>
     <item>
-      <title>Submission deadline extended for IEEE MARSCON 2026. New subm...</title>
-      <link>https://www.aust.edu/notice/3227</link>
-      <description>IEEE International Conference on Microwa...Read More</description>
-      <pubDate>Sun, 12 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3227</guid>
-    </item>
-    <item>
-      <title>Tuition Award (FFTA/HFTA)</title>
-      <link>https://www.aust.edu/notice/3223</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 09 Apr 2026 02:02:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3223</guid>
+      <title>Application Deadline for 'Financial Support for Conference P...</title>
+      <link>https://www.aust.edu/notice/3226</link>
+      <description>This is to notify all faculty members an...Read More</description>
+      <pubDate>Fri, 10 Apr 2026 11:28:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3226</guid>
     </item>
   </channel>
 </rss>
