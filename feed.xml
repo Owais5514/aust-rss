@@ -7,9 +7,9 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 02:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:43:23 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260615.022753</version>
+    <version>1.0.20260615.134323</version>
     <item>
       <title>Academic Calendar (Fall 2025 Semester)</title>
       <link>https://www.aust.edu/notice/3288</link>
@@ -354,11 +354,11 @@
       <guid isPermaLink="true">https://www.aust.edu/notice/3235</guid>
     </item>
     <item>
-      <title>Notification (Bengali New Year's Day)</title>
-      <link>https://www.aust.edu/notice/3229</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 12 Apr 2026 02:27:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3229</guid>
+      <title>Submission deadline extended for IEEE MARSCON 2026. New subm...</title>
+      <link>https://www.aust.edu/notice/3227</link>
+      <description>IEEE International Conference on Microwa...Read More</description>
+      <pubDate>Sun, 12 Apr 2026 13:43:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3227</guid>
     </item>
   </channel>
 </rss>
