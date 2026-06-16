@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 12:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:25:09 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260616.124305</version>
+    <version>1.0.20260616.192509</version>
+    <item>
+      <title>Awareness Program: Youth Stand for Evidence Based Prevention...</title>
+      <link>https://www.aust.edu/notice/3291</link>
+      <description>An awareness program titled &quot;Youth Stand...Read More</description>
+      <pubDate>Mon, 15 Jun 2026 19:25:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3291</guid>
+    </item>
     <item>
       <title>Academic Calendar (Fall 2025 Semester)</title>
       <link>https://www.aust.edu/notice/3288</link>
@@ -352,13 +359,6 @@
       <description>Sealed Tender both for Technical and Fin...Read More</description>
       <pubDate>Thu, 16 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3235</guid>
-    </item>
-    <item>
-      <title>Notification (Bengali New Year's Day)</title>
-      <link>https://www.aust.edu/notice/3229</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 12 Apr 2026 12:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3229</guid>
     </item>
   </channel>
 </rss>
