@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 02:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:23:40 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260622.022930</version>
+    <version>1.0.20260622.132340</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Spr...</title>
+      <link>https://www.aust.edu/notice/3296</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Mon, 22 Jun 2026 13:23:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3296</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Science in Electrical and E...</title>
+      <link>https://www.aust.edu/notice/3295</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Mon, 22 Jun 2026 13:23:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3295</guid>
+    </item>
+    <item>
+      <title>Formation of AUST Cybersecurity and AI Club (AUSTCAIC)</title>
+      <link>https://www.aust.edu/notice/3294</link>
+      <description>To foster awareness and practical unders...Read More</description>
+      <pubDate>Mon, 22 Jun 2026 13:23:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3294</guid>
+    </item>
     <item>
       <title>Job Opportunity: Research Assistant for AUST Internal Resear...</title>
       <link>https://www.aust.edu/notice/3293</link>
@@ -338,27 +359,6 @@
       <description>....Read More</description>
       <pubDate>Thu, 23 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3245</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Final Examinations: Spring 2025 (Revise...</title>
-      <link>https://www.aust.edu/notice/3243</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 21 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3243</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Architecture, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3241</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 21 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3241</guid>
-    </item>
-    <item>
-      <title>TENDER INVITATION</title>
-      <link>https://www.aust.edu/notice/3235</link>
-      <description>Sealed Tender both for Technical and Fin...Read More</description>
-      <pubDate>Thu, 16 Apr 2026 02:29:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3235</guid>
     </item>
   </channel>
 </rss>
