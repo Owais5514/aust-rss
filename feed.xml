@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 01:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:38:23 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260624.015633</version>
+    <version>1.0.20260624.103823</version>
+    <item>
+      <title>NOTICE REGARDING GOVT. SCHOLARSHIP</title>
+      <link>https://www.aust.edu/notice/3301</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Wed, 24 Jun 2026 10:38:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3301</guid>
+    </item>
     <item>
       <title>NOTIFICATION (Holy Ashura)</title>
       <link>https://www.aust.edu/notice/3300</link>
@@ -347,18 +354,11 @@
       <guid isPermaLink="true">https://aust.edu/notice/3252</guid>
     </item>
     <item>
-      <title>Graduate Notification: Master of Architecture, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3250</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 28 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3250</guid>
-    </item>
-    <item>
-      <title>TENDER INVITATION</title>
-      <link>https://www.aust.edu/notice/3246</link>
-      <description>Ahsanullah University of Science and Tec...Read More</description>
-      <pubDate>Thu, 23 Apr 2026 01:56:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3246</guid>
+      <title>Graduate Notification: Bachelor of Business Administration,...</title>
+      <link>https://www.aust.edu/notice/3249</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Mon, 27 Apr 2026 10:38:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3249</guid>
     </item>
   </channel>
 </rss>
