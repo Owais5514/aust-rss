@@ -7,9 +7,9 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 17:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 01:59:15 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260624.174511</version>
+    <version>1.0.20260625.015915</version>
     <item>
       <title>NOTICE REGARDING GOVT. SCHOLARSHIP</title>
       <link>https://www.aust.edu/notice/3301</link>
@@ -354,11 +354,11 @@
       <guid isPermaLink="true">https://aust.edu/notice/3252</guid>
     </item>
     <item>
-      <title>Graduate Notification: Master of Architecture, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3250</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 28 Apr 2026 17:45:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3250</guid>
+      <title>Graduate Notification: Bachelor of Business Administration,...</title>
+      <link>https://www.aust.edu/notice/3249</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Mon, 27 Apr 2026 01:59:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3249</guid>
     </item>
   </channel>
 </rss>
