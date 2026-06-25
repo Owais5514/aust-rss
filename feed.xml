@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 10:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:59:27 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260625.103121</version>
+    <version>1.0.20260625.175927</version>
+    <item>
+      <title>NOTIFICATION (SIBLING/SPOUSE QUOТА)</title>
+      <link>https://www.aust.edu/notice/3303</link>
+      <description>It is hereby notified that the students,...Read More</description>
+      <pubDate>Thu, 25 Jun 2026 17:59:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3303</guid>
+    </item>
     <item>
       <title>List of Awarded Projects under AUST Student Research Grant (...</title>
       <link>https://www.aust.edu/notice/3302</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 30 Apr 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3252</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Architecture, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3250</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 28 Apr 2026 10:31:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3250</guid>
     </item>
   </channel>
 </rss>
