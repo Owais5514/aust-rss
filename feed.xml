@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 17:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:59:26 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260625.175927</version>
+    <version>1.0.20260701.105926</version>
+    <item>
+      <title>নোটিশ - উচ্চতর বেতন স্কেল প্রাপ্তির আবেদন</title>
+      <link>https://www.aust.edu/notice/3309</link>
+      <description>...Read More</description>
+      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3309</guid>
+    </item>
+    <item>
+      <title>NOTIFICATION FOR SPONSOR BENEFITS</title>
+      <link>https://www.aust.edu/notice/3308</link>
+      <description>It is hereby notified that the students,...Read More</description>
+      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3308</guid>
+    </item>
+    <item>
+      <title>Call for Research Proposal for AUST Student Research Grant (...</title>
+      <link>https://www.aust.edu/notice/3307</link>
+      <description>In order to facilitate the research acti...Read More</description>
+      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3307</guid>
+    </item>
     <item>
       <title>NOTIFICATION (SIBLING/SPOUSE QUOТА)</title>
       <link>https://www.aust.edu/notice/3303</link>
@@ -338,27 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sat, 02 May 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3255</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Carryover/Clearance/Improvement Examina...</title>
-      <link>https://aust.edu/notice/3254</link>
-      <description>It is hereby notified for infonnation of...Read More</description>
-      <pubDate>Thu, 30 Apr 2026 17:06:55 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3254</guid>
-    </item>
-    <item>
-      <title>Schedule of Semester Carryover/Clearance/Improvement Examina...</title>
-      <link>https://www.aust.edu/notice/3254</link>
-      <description>It is hereby notified for infonnation of...Read More</description>
-      <pubDate>Thu, 30 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3254</guid>
-    </item>
-    <item>
-      <title>Notification (May Day and Buddha Purnima)</title>
-      <link>https://www.aust.edu/notice/3252</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 30 Apr 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3252</guid>
     </item>
   </channel>
 </rss>
