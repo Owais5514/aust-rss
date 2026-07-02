@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 10:59:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:25:29 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260701.105926</version>
+    <version>1.0.20260702.102529</version>
+    <item>
+      <title>Notification - Distressed Students' Welfare Fund (DSWF)</title>
+      <link>https://www.aust.edu/notice/3310</link>
+      <description>Application in the prescribed form (avai...Read More</description>
+      <pubDate>Thu, 02 Jul 2026 10:25:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3310</guid>
+    </item>
     <item>
       <title>নোটিশ - উচ্চতর বেতন স্কেল প্রাপ্তির আবেদন</title>
       <link>https://www.aust.edu/notice/3309</link>
@@ -352,13 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sat, 02 May 2026 16:33:50 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3255</guid>
-    </item>
-    <item>
-      <title>Submission deadline for IEEE MARSCON 2026 is extended. Hard...</title>
-      <link>https://www.aust.edu/notice/3255</link>
-      <description>....Read More</description>
-      <pubDate>Sat, 02 May 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3255</guid>
     </item>
   </channel>
 </rss>
