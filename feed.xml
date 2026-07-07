@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 10:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:48:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260707.104232</version>
+    <version>1.0.20260707.174835</version>
+    <item>
+      <title>বিজ্ঞপ্তি</title>
+      <link>https://www.aust.edu/notice/3327</link>
+      <description>এতদ্বারা সংশ্ল...Read More</description>
+      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3327</guid>
+    </item>
+    <item>
+      <title>NOTIFICATION (Payment of Semester Fees, and Re-admission, Fa...</title>
+      <link>https://www.aust.edu/notice/3326</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3326</guid>
+    </item>
+    <item>
+      <title>Research Assistant Position Available</title>
+      <link>https://www.aust.edu/notice/3325</link>
+      <description>About the Role We are seeking a Research...Read More</description>
+      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3325</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://www.aust.edu/notice/3324</link>
@@ -338,27 +359,6 @@
       <description>For those who have already registered, t...Read More</description>
       <pubDate>Wed, 13 May 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3264</guid>
-    </item>
-    <item>
-      <title>Notification (Eid-ul-Azha)</title>
-      <link>https://www.aust.edu/notice/3263</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 13 May 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3263</guid>
-    </item>
-    <item>
-      <title>Notification (Eid-ul-Azha)</title>
-      <link>https://aust.edu/notice/3263</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 13 May 2026 10:10:34 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3263</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Engineering in Civil Engine...</title>
-      <link>https://aust.edu/notice/3262</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 12 May 2026 17:50:52 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3262</guid>
     </item>
   </channel>
 </rss>
