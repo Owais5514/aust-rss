@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 10:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:15:23 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260708.100320</version>
+    <version>1.0.20260708.171523</version>
+    <item>
+      <title>Office Order</title>
+      <link>https://www.aust.edu/notice/3332</link>
+      <description>This is for information of all Teachers,...Read More</description>
+      <pubDate>Wed, 08 Jul 2026 17:15:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3332</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://www.aust.edu/notice/3331</link>
@@ -352,13 +359,6 @@
       <description>In partial modification of the Notificat...Read More</description>
       <pubDate>Sun, 17 May 2026 09:25:40 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3265</guid>
-    </item>
-    <item>
-      <title>30 Years Celebration Program, Dept. of Arch., &quot;Bridging Gene...</title>
-      <link>https://aust.edu/notice/3264</link>
-      <description>For those who have already registered, t...Read More</description>
-      <pubDate>Wed, 13 May 2026 17:53:08 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3264</guid>
     </item>
   </channel>
 </rss>
