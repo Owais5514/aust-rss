@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 16:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:46:01 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260714.165830</version>
+    <version>1.0.20260715.094601</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
+      <link>https://www.aust.edu/notice/3340</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Wed, 15 Jul 2026 09:46:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3340</guid>
+    </item>
     <item>
       <title>Notice (Online Class)</title>
       <link>https://www.aust.edu/notice/3339</link>
@@ -352,13 +359,6 @@
       <description>The following candidates for admission t...Read More</description>
       <pubDate>Tue, 19 May 2026 10:39:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3269</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Spr...</title>
-      <link>https://www.aust.edu/notice/3268</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 19 May 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3268</guid>
     </item>
   </channel>
 </rss>
