@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 09:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:08:38 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260719.094104</version>
+    <version>1.0.20260723.100838</version>
+    <item>
+      <title>Academic Calendar (MBA/EMBA): Fall 2025 Semester</title>
+      <link>https://www.aust.edu/notice/3349</link>
+      <description>....Read More</description>
+      <pubDate>Thu, 23 Jul 2026 10:08:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3349</guid>
+    </item>
+    <item>
+      <title>Tuition Award (Kazi Rafiqul Alam Scholarship)</title>
+      <link>https://www.aust.edu/notice/3348</link>
+      <description>Based on the proposal of Dhaka Ahsania M...Read More</description>
+      <pubDate>Thu, 23 Jul 2026 10:08:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3348</guid>
+    </item>
+    <item>
+      <title>PAYMENT NOTICE FOR M.SC. EEE</title>
+      <link>https://www.aust.edu/notice/3350</link>
+      <description>All the students of Master's Program (Fa...Read More</description>
+      <pubDate>Tue, 21 Jul 2026 10:08:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3350</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Electrical and E...</title>
       <link>https://www.aust.edu/notice/3344</link>
@@ -338,27 +359,6 @@
       <description>The admission interviews for the M.S. in...Read More</description>
       <pubDate>Wed, 20 May 2026 10:55:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3271</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://www.aust.edu/notice/3270</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 20 May 2026 10:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3270</guid>
-    </item>
-    <item>
-      <title>Notice for Admission Test of M.Sc./M.Engg. (EEE)</title>
-      <link>https://aust.edu/notice/3269</link>
-      <description>The following candidates for admission t...Read More</description>
-      <pubDate>Tue, 19 May 2026 17:54:09 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3269</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Spr...</title>
-      <link>https://aust.edu/notice/3268</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Tue, 19 May 2026 10:51:04 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3268</guid>
     </item>
   </channel>
 </rss>
