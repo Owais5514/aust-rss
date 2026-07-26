@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 10:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:48:05 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260723.100838</version>
+    <version>1.0.20260726.094805</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3353</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 26 Jul 2026 09:48:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3353</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://www.aust.edu/notice/3352</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 26 Jul 2026 09:48:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3352</guid>
+    </item>
+    <item>
+      <title>Schedule of Semester Midterm Examination: Fall 2025</title>
+      <link>https://www.aust.edu/notice/3351</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 26 Jul 2026 09:48:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3351</guid>
+    </item>
     <item>
       <title>Academic Calendar (MBA/EMBA): Fall 2025 Semester</title>
       <link>https://www.aust.edu/notice/3349</link>
@@ -338,27 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 02 Jun 2026 11:55:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3275</guid>
-    </item>
-    <item>
-      <title>Tuition Award: Remote and Undeveloped Area (RA)</title>
-      <link>https://www.aust.edu/notice/3273</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 21 May 2026 10:55:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3273</guid>
-    </item>
-    <item>
-      <title>Tuition Award: Freedom Fighter (FF) Quota</title>
-      <link>https://www.aust.edu/notice/3272</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 21 May 2026 10:55:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3272</guid>
-    </item>
-    <item>
-      <title>Merit List candidates for Admission into the M.S. in Mathema...</title>
-      <link>https://www.aust.edu/notice/3271</link>
-      <description>The admission interviews for the M.S. in...Read More</description>
-      <pubDate>Wed, 20 May 2026 10:55:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3271</guid>
     </item>
   </channel>
 </rss>
