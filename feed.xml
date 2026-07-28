@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 10:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:18:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260727.105856</version>
+    <version>1.0.20260728.101835</version>
+    <item>
+      <title>Notification: Tuition Award (FFTA/HFTA)</title>
+      <link>https://www.aust.edu/notice/3355</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 28 Jul 2026 10:18:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3355</guid>
+    </item>
     <item>
       <title>Payment Notice of Semester Fees (MBA/EMBA Program)</title>
       <link>https://www.aust.edu/notice/3354</link>
@@ -352,13 +359,6 @@
       <description>Ahsanullah University of Science and Tec...Read More</description>
       <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3277</guid>
-    </item>
-    <item>
-      <title>Tuition Award - Sibling/Spouse, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3276</link>
-      <description>In addition to the Notification No. AUST...Read More</description>
-      <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3276</guid>
     </item>
   </channel>
 </rss>
