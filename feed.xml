@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 10:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:08:27 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260729.102442</version>
+    <version>1.0.20260730.100827</version>
+    <item>
+      <title>Notification regarding Official Facebook Page</title>
+      <link>https://www.aust.edu/notice/3359</link>
+      <description>This is for the information of all that ...Read More</description>
+      <pubDate>Thu, 30 Jul 2026 10:08:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3359</guid>
+    </item>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://www.aust.edu/notice/3358</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Thu, 30 Jul 2026 10:08:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3358</guid>
+    </item>
     <item>
       <title>Notice (Masihur Rahman and Amina Rahman Scholarship)</title>
       <link>https://www.aust.edu/notice/3357</link>
@@ -345,20 +359,6 @@
       <description>The following candidates have been selec...Read More</description>
       <pubDate>Sun, 07 Jun 2026 10:19:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3284</guid>
-    </item>
-    <item>
-      <title>1st waiting list for Admission into MS in Mathematics Progra...</title>
-      <link>https://www.aust.edu/notice/3282</link>
-      <description>The admission interviews for the MS in M...Read More</description>
-      <pubDate>Thu, 04 Jun 2026 10:52:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3282</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Business Administration,...</title>
-      <link>https://www.aust.edu/notice/3278</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 03 Jun 2026 12:26:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3278</guid>
     </item>
   </channel>
 </rss>
