@@ -7,15 +7,29 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 16:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:03:49 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260809.161857</version>
+    <version>1.0.20260810.090349</version>
+    <item>
+      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
+      <link>https://www.aust.edu/notice/3368</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Mon, 10 Aug 2026 09:03:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3368</guid>
+    </item>
     <item>
       <title>Call for Research Proposal for AUST Internal Research Grant...</title>
       <link>https://www.aust.edu/notice/3365</link>
       <description>To facilitate research activities among ...Read More</description>
       <pubDate>Sun, 09 Aug 2026 16:18:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3365</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3367</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Wed, 05 Aug 2026 09:03:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3367</guid>
     </item>
     <item>
       <title>NOTIFICATION (July Mass Uprising Day)</title>
@@ -345,20 +359,6 @@
       <description>As per decision of the 22&quot;d Academic Aff...Read More</description>
       <pubDate>Thu, 11 Jun 2026 12:00:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3288</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://www.aust.edu/notice/3287</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 10 Jun 2026 11:28:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3287</guid>
-    </item>
-    <item>
-      <title>Reception and Orientation Program for newly admitted student...</title>
-      <link>https://www.aust.edu/notice/3286</link>
-      <description>A reception and orientation program for ...Read More</description>
-      <pubDate>Mon, 08 Jun 2026 12:18:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3286</guid>
     </item>
   </channel>
 </rss>
