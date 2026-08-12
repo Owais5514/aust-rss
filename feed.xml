@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 09:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:57:03 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260810.090349</version>
+    <version>1.0.20260812.085703</version>
+    <item>
+      <title>Extension of the Submission Deadline - Call for Research Pro...</title>
+      <link>https://www.aust.edu/notice/3376</link>
+      <description>We have received a number of verbal requ...Read More</description>
+      <pubDate>Wed, 12 Aug 2026 08:57:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3376</guid>
+    </item>
     <item>
       <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
       <link>https://www.aust.edu/notice/3368</link>
@@ -37,6 +44,13 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Mon, 03 Aug 2026 17:38:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3362</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3375</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Fri, 31 Jul 2026 08:57:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3375</guid>
     </item>
     <item>
       <title>Notification regarding Official Facebook Page</title>
@@ -345,20 +359,6 @@
       <description>The Division of Physics under the Depart...Read More</description>
       <pubDate>Tue, 16 Jun 2026 18:06:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3293</guid>
-    </item>
-    <item>
-      <title>Awareness Program: Youth Stand for Evidence Based Prevention...</title>
-      <link>https://www.aust.edu/notice/3291</link>
-      <description>An awareness program titled &quot;Youth Stand...Read More</description>
-      <pubDate>Mon, 15 Jun 2026 19:25:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3291</guid>
-    </item>
-    <item>
-      <title>Academic Calendar (Fall 2025 Semester)</title>
-      <link>https://www.aust.edu/notice/3288</link>
-      <description>As per decision of the 22&quot;d Academic Aff...Read More</description>
-      <pubDate>Thu, 11 Jun 2026 12:00:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3288</guid>
     </item>
   </channel>
 </rss>
