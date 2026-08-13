@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 08:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:41:58 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260812.085703</version>
+    <version>1.0.20260813.164158</version>
+    <item>
+      <title>Graduate Notification: Master of Business Administration (Ex...</title>
+      <link>https://www.aust.edu/notice/3378</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 13 Aug 2026 16:41:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3378</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Business Administration, Sp...</title>
+      <link>https://www.aust.edu/notice/3377</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 13 Aug 2026 16:41:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3377</guid>
+    </item>
     <item>
       <title>Extension of the Submission Deadline - Call for Research Pro...</title>
       <link>https://www.aust.edu/notice/3376</link>
@@ -345,20 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Mon, 22 Jun 2026 13:23:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3295</guid>
-    </item>
-    <item>
-      <title>Formation of AUST Cybersecurity and AI Club (AUSTCAIC)</title>
-      <link>https://www.aust.edu/notice/3294</link>
-      <description>To foster awareness and practical unders...Read More</description>
-      <pubDate>Mon, 22 Jun 2026 13:23:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3294</guid>
-    </item>
-    <item>
-      <title>Job Opportunity: Research Assistant for AUST Internal Resear...</title>
-      <link>https://www.aust.edu/notice/3293</link>
-      <description>The Division of Physics under the Depart...Read More</description>
-      <pubDate>Tue, 16 Jun 2026 18:06:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3293</guid>
     </item>
   </channel>
 </rss>
