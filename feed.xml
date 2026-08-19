@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 08:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:17:43 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260818.081943</version>
+    <version>1.0.20260819.161743</version>
+    <item>
+      <title>Graduate Notification: Master of Education, Spring 2025</title>
+      <link>https://www.aust.edu/notice/3389</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 19 Aug 2026 16:17:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3389</guid>
+    </item>
+    <item>
+      <title>Part-Time Research Assistant (RA) position is open for  AUST...</title>
+      <link>https://www.aust.edu/notice/3388</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 19 Aug 2026 16:17:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3388</guid>
+    </item>
     <item>
       <title>Part-Time Research Assistant (RA) position is open for  AUST...</title>
       <link>https://www.aust.edu/notice/3386</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified that the students,...Read More</description>
       <pubDate>Thu, 25 Jun 2026 17:59:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3303</guid>
-    </item>
-    <item>
-      <title>List of Awarded Projects under AUST Student Research Grant (...</title>
-      <link>https://www.aust.edu/notice/3302</link>
-      <description>This is to notify atl concerned students...Read More</description>
-      <pubDate>Thu, 25 Jun 2026 10:31:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3302</guid>
-    </item>
-    <item>
-      <title>NOTICE REGARDING GOVT. SCHOLARSHIP</title>
-      <link>https://www.aust.edu/notice/3301</link>
-      <description>This is for information of all concerned...Read More</description>
-      <pubDate>Wed, 24 Jun 2026 10:38:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3301</guid>
     </item>
   </channel>
 </rss>
