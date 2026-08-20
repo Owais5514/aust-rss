@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 08:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:18:53 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260820.082139</version>
+    <version>1.0.20260820.161853</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
+      <link>https://www.aust.edu/notice/3392</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Thu, 20 Aug 2026 16:18:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3392</guid>
+    </item>
     <item>
       <title>Notification regarding Eid-e-Miladunnabi</title>
       <link>https://www.aust.edu/notice/3391</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified that the students,...Read More</description>
       <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3308</guid>
-    </item>
-    <item>
-      <title>Call for Research Proposal for AUST Student Research Grant (...</title>
-      <link>https://www.aust.edu/notice/3307</link>
-      <description>In order to facilitate the research acti...Read More</description>
-      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3307</guid>
     </item>
   </channel>
 </rss>
