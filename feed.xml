@@ -7,9 +7,30 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 16:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:10:09 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260820.161853</version>
+    <version>1.0.20260823.161009</version>
+    <item>
+      <title>NOTICE</title>
+      <link>https://www.aust.edu/notice/3395</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Sun, 23 Aug 2026 16:10:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3395</guid>
+    </item>
+    <item>
+      <title>Extension of dates for payment of Semester Fees - MBA/EMBA P...</title>
+      <link>https://www.aust.edu/notice/3394</link>
+      <description>All the students of MBA/EMBA Program are...Read More</description>
+      <pubDate>Sun, 23 Aug 2026 16:10:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3394</guid>
+    </item>
+    <item>
+      <title>NOTIFICATION (RE: Temporary Unavailability of the University...</title>
+      <link>https://www.aust.edu/notice/3393</link>
+      <description>This is for information of all concerned...Read More</description>
+      <pubDate>Sun, 23 Aug 2026 16:10:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3393</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://www.aust.edu/notice/3392</link>
@@ -338,27 +359,6 @@
       <description>In continuation ofthe notification no. A...Read More</description>
       <pubDate>Mon, 06 Jul 2026 11:52:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3313</guid>
-    </item>
-    <item>
-      <title>Notification - Distressed Students' Welfare Fund (DSWF)</title>
-      <link>https://www.aust.edu/notice/3310</link>
-      <description>Application in the prescribed form (avai...Read More</description>
-      <pubDate>Thu, 02 Jul 2026 10:25:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3310</guid>
-    </item>
-    <item>
-      <title>নোটিশ - উচ্চতর বেতন স্কেল প্রাপ্তির আবেদন</title>
-      <link>https://www.aust.edu/notice/3309</link>
-      <description>...Read More</description>
-      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3309</guid>
-    </item>
-    <item>
-      <title>NOTIFICATION FOR SPONSOR BENEFITS</title>
-      <link>https://www.aust.edu/notice/3308</link>
-      <description>It is hereby notified that the students,...Read More</description>
-      <pubDate>Wed, 01 Jul 2026 10:59:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3308</guid>
     </item>
   </channel>
 </rss>
