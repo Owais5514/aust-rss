@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 16:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:26:36 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260823.161009</version>
+    <version>1.0.20260825.082636</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3397</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Mon, 24 Aug 2026 08:26:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3397</guid>
+    </item>
     <item>
       <title>NOTICE</title>
       <link>https://www.aust.edu/notice/3395</link>
@@ -32,11 +39,25 @@
       <guid isPermaLink="true">https://www.aust.edu/notice/3393</guid>
     </item>
     <item>
+      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
+      <link>https://www.aust.edu/notice/3398</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Sun, 23 Aug 2026 08:26:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3398</guid>
+    </item>
+    <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://www.aust.edu/notice/3392</link>
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 20 Aug 2026 16:18:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3392</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Master of Science in Electrical and E...</title>
+      <link>https://www.aust.edu/notice/3396</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Thu, 20 Aug 2026 08:26:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3396</guid>
     </item>
     <item>
       <title>Notification regarding Eid-e-Miladunnabi</title>
@@ -338,27 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3319</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
-      <link>https://www.aust.edu/notice/3318</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3318</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Business Administration,...</title>
-      <link>https://www.aust.edu/notice/3317</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3317</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://www.aust.edu/notice/3313</link>
-      <description>In continuation ofthe notification no. A...Read More</description>
-      <pubDate>Mon, 06 Jul 2026 11:52:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3313</guid>
     </item>
   </channel>
 </rss>
