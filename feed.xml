@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 08:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:21:35 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260825.082636</version>
+    <version>1.0.20260825.162135</version>
+    <item>
+      <title>Notification: Tuition Award (HFTA)</title>
+      <link>https://www.aust.edu/notice/3401</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Tue, 25 Aug 2026 16:21:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3401</guid>
+    </item>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://www.aust.edu/notice/3400</link>
+      <description>....Read More</description>
+      <pubDate>Tue, 25 Aug 2026 16:21:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3400</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
       <link>https://www.aust.edu/notice/3397</link>
@@ -345,20 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3321</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Architecture, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3320</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3320</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
-      <link>https://www.aust.edu/notice/3319</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3319</guid>
     </item>
   </channel>
 </rss>
