@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 12:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:19:41 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260901.125005</version>
+    <version>1.0.20260902.121941</version>
+    <item>
+      <title>Notification: Tuition Award (Siblings)</title>
+      <link>https://www.aust.edu/notice/3406</link>
+      <description>In addition to the Notification No. AUST...Read More</description>
+      <pubDate>Wed, 02 Sep 2026 12:19:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3406</guid>
+    </item>
     <item>
       <title>Research Assistant (RA) Opportunity for AUST Internal Resear...</title>
       <link>https://www.aust.edu/notice/3405</link>
@@ -352,13 +359,6 @@
       <description>About the Role We are seeking a Research...Read More</description>
       <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3325</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
-      <link>https://www.aust.edu/notice/3324</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 10:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3324</guid>
     </item>
   </channel>
 </rss>
