@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 12:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:56:42 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260902.121941</version>
+    <version>1.0.20260903.185642</version>
+    <item>
+      <title>নোটিশ  (শিক্ষা প্রতিষ্ঠানের বুলিং ও র‍্যাগিং-এর মতো সামাজিক...</title>
+      <link>https://www.aust.edu/notice/3410</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 02 Sep 2026 18:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3410</guid>
+    </item>
+    <item>
+      <title>NOTIFICATION: University will remain closed on 04 September...</title>
+      <link>https://www.aust.edu/notice/3409</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 02 Sep 2026 18:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3409</guid>
+    </item>
     <item>
       <title>Notification: Tuition Award (Siblings)</title>
       <link>https://www.aust.edu/notice/3406</link>
@@ -345,20 +359,6 @@
       <description>এতদ্বারা সংশ্ল...Read More</description>
       <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3327</guid>
-    </item>
-    <item>
-      <title>NOTIFICATION (Payment of Semester Fees, and Re-admission, Fa...</title>
-      <link>https://www.aust.edu/notice/3326</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3326</guid>
-    </item>
-    <item>
-      <title>Research Assistant Position Available</title>
-      <link>https://www.aust.edu/notice/3325</link>
-      <description>About the Role We are seeking a Research...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3325</guid>
     </item>
   </channel>
 </rss>
