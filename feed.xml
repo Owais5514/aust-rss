@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 18:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:20:10 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260903.185642</version>
+    <version>1.0.20260908.122010</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3417</link>
+      <description>In continuation ofthe notification no. A...Read More</description>
+      <pubDate>Tue, 08 Sep 2026 12:20:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3417</guid>
+    </item>
     <item>
       <title>নোটিশ  (শিক্ষা প্রতিষ্ঠানের বুলিং ও র‍্যাগিং-এর মতো সামাজিক...</title>
       <link>https://www.aust.edu/notice/3410</link>
@@ -352,13 +359,6 @@
       <description>Ahsanullah University of Science and Tec...Read More</description>
       <pubDate>Wed, 08 Jul 2026 10:03:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3331</guid>
-    </item>
-    <item>
-      <title>বিজ্ঞপ্তি</title>
-      <link>https://www.aust.edu/notice/3327</link>
-      <description>এতদ্বারা সংশ্ল...Read More</description>
-      <pubDate>Tue, 07 Jul 2026 17:48:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3327</guid>
     </item>
   </channel>
 </rss>
