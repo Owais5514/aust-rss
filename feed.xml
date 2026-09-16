@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 12:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:53:12 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260915.125606</version>
+    <version>1.0.20260916.125312</version>
+    <item>
+      <title>Schedule of Semester Final Examinations: Fall 2025</title>
+      <link>https://www.aust.edu/notice/3424</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 16 Sep 2026 12:53:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3424</guid>
+    </item>
+    <item>
+      <title>Notification: Carry, Imporvement Application, Fall 2025</title>
+      <link>https://www.aust.edu/notice/3423</link>
+      <description>The undergraduate students (from 4th yea...Read More</description>
+      <pubDate>Wed, 16 Sep 2026 12:53:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3423</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
       <link>https://www.aust.edu/notice/3422</link>
@@ -345,20 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Wed, 15 Jul 2026 09:46:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3340</guid>
-    </item>
-    <item>
-      <title>Notice (Online Class)</title>
-      <link>https://www.aust.edu/notice/3339</link>
-      <description>Considering the natural calamities due t...Read More</description>
-      <pubDate>Tue, 14 Jul 2026 16:58:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3339</guid>
-    </item>
-    <item>
-      <title>শোক সভার বিজ্ঞপ্তি</title>
-      <link>https://www.aust.edu/notice/3335</link>
-      <description>এতদ্বারা সকলের...Read More</description>
-      <pubDate>Sun, 12 Jul 2026 16:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3335</guid>
     </item>
   </channel>
 </rss>
