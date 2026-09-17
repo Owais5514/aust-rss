@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 12:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:50:01 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260916.125312</version>
+    <version>1.0.20260917.125001</version>
+    <item>
+      <title>Extension of the Submission Deadline (Call for Research Prop...</title>
+      <link>https://www.aust.edu/notice/3428</link>
+      <description>We have received a number of requests fr...Read More</description>
+      <pubDate>Thu, 17 Sep 2026 12:50:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3428</guid>
+    </item>
+    <item>
+      <title>Routine for Semester Final Examination (MBA &amp; EMBA Programs)...</title>
+      <link>https://www.aust.edu/notice/3425</link>
+      <description>....Read More</description>
+      <pubDate>Thu, 17 Sep 2026 12:50:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3425</guid>
+    </item>
     <item>
       <title>Schedule of Semester Final Examinations: Fall 2025</title>
       <link>https://www.aust.edu/notice/3424</link>
@@ -345,20 +359,6 @@
       <description>All the students of Master's Program (Fa...Read More</description>
       <pubDate>Tue, 21 Jul 2026 10:08:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3350</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Electrical and E...</title>
-      <link>https://www.aust.edu/notice/3344</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Sun, 19 Jul 2026 09:41:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3344</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Computer Scien...</title>
-      <link>https://www.aust.edu/notice/3340</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 15 Jul 2026 09:46:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3340</guid>
     </item>
   </channel>
 </rss>
