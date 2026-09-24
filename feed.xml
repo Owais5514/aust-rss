@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 12:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:57:14 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20260917.125001</version>
+    <version>1.0.20260924.125714</version>
+    <item>
+      <title>Farewell Ceremony for Outgoing Students of Fall Semester-202...</title>
+      <link>https://www.aust.edu/notice/3433</link>
+      <description>A farewell program for outgoing students...Read More</description>
+      <pubDate>Thu, 24 Sep 2026 12:57:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3433</guid>
+    </item>
+    <item>
+      <title>TENDER INVITATION</title>
+      <link>https://www.aust.edu/notice/3432</link>
+      <description>Ahsanullah University of Science and Tec...Read More</description>
+      <pubDate>Thu, 24 Sep 2026 12:57:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3432</guid>
+    </item>
     <item>
       <title>Extension of the Submission Deadline (Call for Research Prop...</title>
       <link>https://www.aust.edu/notice/3428</link>
@@ -345,20 +359,6 @@
       <description>....Read More</description>
       <pubDate>Thu, 23 Jul 2026 10:08:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3349</guid>
-    </item>
-    <item>
-      <title>Tuition Award (Kazi Rafiqul Alam Scholarship)</title>
-      <link>https://www.aust.edu/notice/3348</link>
-      <description>Based on the proposal of Dhaka Ahsania M...Read More</description>
-      <pubDate>Thu, 23 Jul 2026 10:08:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3348</guid>
-    </item>
-    <item>
-      <title>PAYMENT NOTICE FOR M.SC. EEE</title>
-      <link>https://www.aust.edu/notice/3350</link>
-      <description>All the students of Master's Program (Fa...Read More</description>
-      <pubDate>Tue, 21 Jul 2026 10:08:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3350</guid>
     </item>
   </channel>
 </rss>
