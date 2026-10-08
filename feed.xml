@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:00:05 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261005.163000</version>
+    <version>1.0.20261008.150005</version>
+    <item>
+      <title>Notification (Semester Final Examinations of Fall 2025)</title>
+      <link>https://www.aust.edu/notice/3447</link>
+      <description>The Semester Final Examinations of Fall ...Read More</description>
+      <pubDate>Thu, 08 Oct 2026 15:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3447</guid>
+    </item>
+    <item>
+      <title>Office Order</title>
+      <link>https://www.aust.edu/notice/3446</link>
+      <description>Prof. Dr. Md. Ashraful Hoque, Vice-Chanc...Read More</description>
+      <pubDate>Thu, 08 Oct 2026 15:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3446</guid>
+    </item>
     <item>
       <title>Semester Final Examination Routine: Fall2025 (MS in Mathemat...</title>
       <link>https://www.aust.edu/notice/3444</link>
@@ -345,20 +359,6 @@
       <description>All the students of MBA/EMBA Program are...Read More</description>
       <pubDate>Mon, 27 Jul 2026 10:58:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3354</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://www.aust.edu/notice/3353</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Sun, 26 Jul 2026 09:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3353</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Science in Mathematics, Fal...</title>
-      <link>https://www.aust.edu/notice/3352</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Sun, 26 Jul 2026 09:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3352</guid>
     </item>
   </channel>
 </rss>
