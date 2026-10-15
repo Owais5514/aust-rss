@@ -7,15 +7,22 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 12:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:30:59 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261015.125429</version>
+    <version>1.0.20261015.193059</version>
     <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://www.aust.edu/notice/3457</link>
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Thu, 15 Oct 2026 12:54:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3457</guid>
+    </item>
+    <item>
+      <title>বিজ্ঞপ্তি - আহ্ছানউল্লা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আগ...</title>
+      <link>https://www.aust.edu/notice/3458</link>
+      <description>....Read More</description>
+      <pubDate>Wed, 14 Oct 2026 19:30:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3458</guid>
     </item>
     <item>
       <title>Notification (Durga Puja)</title>
@@ -352,13 +359,6 @@
       <description>This is for the information of all that ...Read More</description>
       <pubDate>Thu, 30 Jul 2026 10:08:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3359</guid>
-    </item>
-    <item>
-      <title>TENDER INVITATION</title>
-      <link>https://www.aust.edu/notice/3358</link>
-      <description>Ahsanullah University of Science and Tec...Read More</description>
-      <pubDate>Thu, 30 Jul 2026 10:08:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3358</guid>
     </item>
   </channel>
 </rss>
