@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 14:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:42:51 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261026.143716</version>
+    <version>1.0.20261029.144251</version>
+    <item>
+      <title>Graduate Notification: Bachelor of Business Administration,...</title>
+      <link>https://www.aust.edu/notice/3468</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Thu, 29 Oct 2026 14:42:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3468</guid>
+    </item>
     <item>
       <title>Notification: Tuition Award (FFTA/HFTA)</title>
       <link>https://www.aust.edu/notice/3464</link>
@@ -352,13 +359,6 @@
       <description>To facilitate research activities among ...Read More</description>
       <pubDate>Sun, 09 Aug 2026 16:18:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3365</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://www.aust.edu/notice/3367</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Wed, 05 Aug 2026 09:03:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3367</guid>
     </item>
   </channel>
 </rss>
