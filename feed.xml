@@ -7,15 +7,22 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 17:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:15:05 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261102.172955</version>
+    <version>1.0.20261103.041505</version>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://www.aust.edu/notice/3473</link>
       <description>Ahsanullah University of Science and Tec...Read More</description>
       <pubDate>Mon, 02 Nov 2026 17:29:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3473</guid>
+    </item>
+    <item>
+      <title>NOTICE FOR THE 13th CONVOCATION 2026</title>
+      <link>https://www.aust.edu/notice/3474</link>
+      <description>The 13th Convocation of AUST is going to...Read More</description>
+      <pubDate>Mon, 02 Nov 2026 04:15:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3474</guid>
     </item>
     <item>
       <title>Research Assistant (RA) Opportunity</title>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 13 Aug 2026 16:41:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3377</guid>
-    </item>
-    <item>
-      <title>Extension of the Submission Deadline - Call for Research Pro...</title>
-      <link>https://www.aust.edu/notice/3376</link>
-      <description>We have received a number of verbal requ...Read More</description>
-      <pubDate>Wed, 12 Aug 2026 08:57:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3376</guid>
     </item>
   </channel>
 </rss>
