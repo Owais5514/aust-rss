@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 04:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:49:25 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261103.041505</version>
+    <version>1.0.20261104.154925</version>
+    <item>
+      <title>Notification: Tuition Award (RA Quota)</title>
+      <link>https://www.aust.edu/notice/3479</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 04 Nov 2026 15:49:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3479</guid>
+    </item>
+    <item>
+      <title>Notification: Tuition Award (FF Quota)</title>
+      <link>https://www.aust.edu/notice/3478</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Wed, 04 Nov 2026 15:49:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3478</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://www.aust.edu/notice/3473</link>
@@ -345,20 +359,6 @@
       <description>....Read More</description>
       <pubDate>Sun, 16 Aug 2026 16:09:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3381</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration (Ex...</title>
-      <link>https://www.aust.edu/notice/3378</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 13 Aug 2026 16:41:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3378</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Business Administration, Sp...</title>
-      <link>https://www.aust.edu/notice/3377</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Thu, 13 Aug 2026 16:41:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3377</guid>
     </item>
   </channel>
 </rss>
