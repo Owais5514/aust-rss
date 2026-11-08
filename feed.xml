@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 15:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:00:47 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261105.155132</version>
+    <version>1.0.20261108.200047</version>
+    <item>
+      <title>Revised Schedule of Semester Carryover/Clearance/Improvement...</title>
+      <link>https://www.aust.edu/notice/3482</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sat, 07 Nov 2026 20:00:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3482</guid>
+    </item>
     <item>
       <title>The University will remain closed on 07 November (Saturday)...</title>
       <link>https://www.aust.edu/notice/3481</link>
@@ -352,13 +359,6 @@
       <description>As per request of the representatives of...Read More</description>
       <pubDate>Sun, 16 Aug 2026 16:09:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3383</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Civil Engineer...</title>
-      <link>https://www.aust.edu/notice/3382</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Sun, 16 Aug 2026 16:09:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3382</guid>
     </item>
   </channel>
 </rss>
