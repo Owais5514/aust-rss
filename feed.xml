@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 17:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:02:44 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261109.175256</version>
+    <version>1.0.20261115.150244</version>
+    <item>
+      <title>Mashiur Rahman and Amina Rahman Scholarship</title>
+      <link>https://www.aust.edu/notice/3489</link>
+      <description>The following students of Fall 2025 have...Read More</description>
+      <pubDate>Sun, 15 Nov 2026 15:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3489</guid>
+    </item>
+    <item>
+      <title>Apply for Original Certificate through IUMS and Manual for t...</title>
+      <link>https://www.aust.edu/notice/3488</link>
+      <description>It is hereby notified for information of...Read More</description>
+      <pubDate>Sun, 15 Nov 2026 15:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3488</guid>
+    </item>
     <item>
       <title>TENDER INVITATION</title>
       <link>https://www.aust.edu/notice/3484</link>
@@ -44,6 +58,13 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 04 Nov 2026 15:49:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3478</guid>
+    </item>
+    <item>
+      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
+      <link>https://www.aust.edu/notice/3490</link>
+      <description>In continuation of the notification no. ...Read More</description>
+      <pubDate>Wed, 04 Nov 2026 15:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aust.edu/notice/3490</guid>
     </item>
     <item>
       <title>TENDER INVITATION</title>
@@ -338,27 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Thu, 20 Aug 2026 08:21:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.aust.edu/notice/3391</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Master of Education, Spring 2025</title>
-      <link>https://www.aust.edu/notice/3389</link>
-      <description>It is hereby notified for information of...Read More</description>
-      <pubDate>Wed, 19 Aug 2026 16:17:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3389</guid>
-    </item>
-    <item>
-      <title>Part-Time Research Assistant (RA) position is open for  AUST...</title>
-      <link>https://www.aust.edu/notice/3388</link>
-      <description>....Read More</description>
-      <pubDate>Wed, 19 Aug 2026 16:17:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3388</guid>
-    </item>
-    <item>
-      <title>Part-Time Research Assistant (RA) position is open for  AUST...</title>
-      <link>https://www.aust.edu/notice/3386</link>
-      <description>....Read More</description>
-      <pubDate>Tue, 18 Aug 2026 08:19:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aust.edu/notice/3386</guid>
     </item>
   </channel>
 </rss>
