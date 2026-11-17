@@ -191621,3 +191621,131 @@
 2026-11-17 05:26:03,671 - INFO - No new notices found based on GUID comparison with the existing feed.
 2026-11-17 05:26:03,671 - INFO - RSS feed generation skipped.
 2026-11-17 05:26:03,671 - INFO - Process finished. Duration: 0:00:03.345473
+2026-11-17 17:08:11,440 - INFO - Starting AUST notice scraping process...
+2026-11-17 17:08:11,440 - INFO - Local time: 2026-11-17 17:08:11  (Timezone Offset: UTC+06:00)
+2026-11-17 17:08:11,440 - INFO - Fetching notices from https://aust.edu/notice
+2026-11-17 17:08:12,694 - INFO - Successfully fetched page. Status code: 200
+2026-11-17 17:08:12,695 - INFO - Parsing HTML content using lxml...
+2026-11-17 17:08:12,731 - INFO - Looking for notice elements using selector: 'div.card-info'
+2026-11-17 17:08:12,833 - INFO - Found 36 potential notice elements.
+2026-11-17 17:08:12,834 - INFO -   Assembled date string: 'Nov 15 2026' for title 'Mashiur Rahman and Amina Rahman Scholarship'
+2026-11-17 17:08:12,880 - INFO -     Successfully parsed date with local BD time: 2026-11-15 17:08:12+00:00
+2026-11-17 17:08:12,880 - INFO -   -> Found notice: Title='Mashiur Rahman and Amina Rahman Scholarship', Link='https://aust.edu/notice/3489', Date='2026-11-15 17:08:12+00:00', GUID='https://aust.edu/notice/3489'
+2026-11-17 17:08:12,881 - INFO -   Assembled date string: 'Nov 15 2026' for title 'Apply for Original Certificate through IUMS and Manual for t...'
+2026-11-17 17:08:12,881 - INFO -     Successfully parsed date with local BD time: 2026-11-15 17:08:12+00:00
+2026-11-17 17:08:12,881 - INFO -   -> Found notice: Title='Apply for Original Certificate through IUMS and Manual for t...', Link='https://aust.edu/notice/3488', Date='2026-11-15 17:08:12+00:00', GUID='https://aust.edu/notice/3488'
+2026-11-17 17:08:12,882 - INFO -   Assembled date string: 'Nov 09 2026' for title 'TENDER INVITATION'
+2026-11-17 17:08:12,882 - INFO -     Successfully parsed date with local BD time: 2026-11-09 17:08:12+00:00
+2026-11-17 17:08:12,882 - INFO -   -> Found notice: Title='TENDER INVITATION', Link='https://aust.edu/notice/3484', Date='2026-11-09 17:08:12+00:00', GUID='https://aust.edu/notice/3484'
+2026-11-17 17:08:12,882 - INFO -   Assembled date string: 'Nov 08 2026' for title 'Revised Schedule of Semester Carryover/Clearance/Improvement...'
+2026-11-17 17:08:12,882 - INFO -     Successfully parsed date with local BD time: 2026-11-08 17:08:12+00:00
+2026-11-17 17:08:12,882 - INFO -   -> Found notice: Title='Revised Schedule of Semester Carryover/Clearance/Improvement...', Link='https://aust.edu/notice/3482', Date='2026-11-08 17:08:12+00:00', GUID='https://aust.edu/notice/3482'
+2026-11-17 17:08:12,883 - INFO -   Assembled date string: 'Nov 05 2026' for title 'The University will remain closed on 07 November (Saturday)...'
+2026-11-17 17:08:12,883 - INFO -     Successfully parsed date with local BD time: 2026-11-05 17:08:12+00:00
+2026-11-17 17:08:12,883 - INFO -   -> Found notice: Title='The University will remain closed on 07 November (Saturday)...', Link='https://aust.edu/notice/3481', Date='2026-11-05 17:08:12+00:00', GUID='https://aust.edu/notice/3481'
+2026-11-17 17:08:12,883 - INFO -   Assembled date string: 'Nov 04 2026' for title 'Graduate Notification: Bachelor of Science in Electrical and...'
+2026-11-17 17:08:12,883 - INFO -     Successfully parsed date with local BD time: 2026-11-04 17:08:12+00:00
+2026-11-17 17:08:12,883 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Electrical and...', Link='https://aust.edu/notice/3490', Date='2026-11-04 17:08:12+00:00', GUID='https://aust.edu/notice/3490'
+2026-11-17 17:08:12,884 - INFO -   Assembled date string: 'Nov 04 2026' for title 'Notification: Tuition Award (RA Quota)'
+2026-11-17 17:08:12,884 - INFO -     Successfully parsed date with local BD time: 2026-11-04 17:08:12+00:00
+2026-11-17 17:08:12,884 - INFO -   -> Found notice: Title='Notification: Tuition Award (RA Quota)', Link='https://aust.edu/notice/3479', Date='2026-11-04 17:08:12+00:00', GUID='https://aust.edu/notice/3479'
+2026-11-17 17:08:12,884 - INFO -   Assembled date string: 'Nov 04 2026' for title 'Notification: Tuition Award (FF Quota)'
+2026-11-17 17:08:12,884 - INFO -     Successfully parsed date with local BD time: 2026-11-04 17:08:12+00:00
+2026-11-17 17:08:12,885 - INFO -   -> Found notice: Title='Notification: Tuition Award (FF Quota)', Link='https://aust.edu/notice/3478', Date='2026-11-04 17:08:12+00:00', GUID='https://aust.edu/notice/3478'
+2026-11-17 17:08:12,885 - INFO -   Assembled date string: 'Nov 02 2026' for title 'NOTICE FOR THE 13th CONVOCATION 2026'
+2026-11-17 17:08:12,885 - INFO -     Successfully parsed date with local BD time: 2026-11-02 17:08:12+00:00
+2026-11-17 17:08:12,885 - INFO -   -> Found notice: Title='NOTICE FOR THE 13th CONVOCATION 2026', Link='https://aust.edu/notice/3474', Date='2026-11-02 17:08:12+00:00', GUID='https://aust.edu/notice/3474'
+2026-11-17 17:08:12,885 - INFO -   Assembled date string: 'Nov 02 2026' for title 'TENDER INVITATION'
+2026-11-17 17:08:12,886 - INFO -     Successfully parsed date with local BD time: 2026-11-02 17:08:12+00:00
+2026-11-17 17:08:12,886 - INFO -   -> Found notice: Title='TENDER INVITATION', Link='https://aust.edu/notice/3473', Date='2026-11-02 17:08:12+00:00', GUID='https://aust.edu/notice/3473'
+2026-11-17 17:08:12,886 - INFO -   Assembled date string: 'Nov 01 2026' for title 'Research Assistant (RA) Opportunity'
+2026-11-17 17:08:12,886 - INFO -     Successfully parsed date with local BD time: 2026-11-01 17:08:12+00:00
+2026-11-17 17:08:12,886 - INFO -   -> Found notice: Title='Research Assistant (RA) Opportunity', Link='https://aust.edu/notice/3472', Date='2026-11-01 17:08:12+00:00', GUID='https://aust.edu/notice/3472'
+2026-11-17 17:08:12,887 - INFO -   Assembled date string: 'Oct 29 2026' for title 'Graduate Notification: Bachelor of Business Administration,...'
+2026-11-17 17:08:12,887 - INFO -     Successfully parsed date with local BD time: 2026-10-29 17:08:12+00:00
+2026-11-17 17:08:12,887 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Business Administration,...', Link='https://aust.edu/notice/3468', Date='2026-10-29 17:08:12+00:00', GUID='https://aust.edu/notice/3468'
+2026-11-17 17:08:12,887 - INFO -   Assembled date string: 'Oct 26 2026' for title 'Notification: Tuition Award (FFTA/HFTA)'
+2026-11-17 17:08:12,887 - INFO -     Successfully parsed date with local BD time: 2026-10-26 17:08:12+00:00
+2026-11-17 17:08:12,887 - INFO -   -> Found notice: Title='Notification: Tuition Award (FFTA/HFTA)', Link='https://aust.edu/notice/3464', Date='2026-10-26 17:08:12+00:00', GUID='https://aust.edu/notice/3464'
+2026-11-17 17:08:12,888 - INFO -   Assembled date string: 'Oct 20 2026' for title 'Notification: Rescheduling of Examinations Scheduled for 25...'
+2026-11-17 17:08:12,888 - INFO -     Successfully parsed date with local BD time: 2026-10-20 17:08:12+00:00
+2026-11-17 17:08:12,888 - INFO -   -> Found notice: Title='Notification: Rescheduling of Examinations Scheduled for 25...', Link='https://aust.edu/notice/3462', Date='2026-10-20 17:08:12+00:00', GUID='https://aust.edu/notice/3462'
+2026-11-17 17:08:12,888 - INFO -   Assembled date string: 'Oct 19 2026' for title 'Notification regarding 13th Convocation'
+2026-11-17 17:08:12,888 - INFO -     Successfully parsed date with local BD time: 2026-10-19 17:08:12+00:00
+2026-11-17 17:08:12,888 - INFO -   -> Found notice: Title='Notification regarding 13th Convocation', Link='https://aust.edu/notice/3461', Date='2026-10-19 17:08:12+00:00', GUID='https://aust.edu/notice/3461'
+2026-11-17 17:08:12,889 - INFO -   Assembled date string: 'Oct 15 2026' for title 'বিজ্ঞপ্তি - আহ্ছানউল্লা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আগ...'
+2026-11-17 17:08:12,889 - INFO -     Successfully parsed date with local BD time: 2026-10-15 17:08:12+00:00
+2026-11-17 17:08:12,889 - INFO -   -> Found notice: Title='বিজ্ঞপ্তি - আহ্ছানউল্লা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আগ...', Link='https://aust.edu/notice/3458', Date='2026-10-15 17:08:12+00:00', GUID='https://aust.edu/notice/3458'
+2026-11-17 17:08:12,889 - INFO -   Assembled date string: 'Oct 15 2026' for title 'Graduate Notification: Bachelor of Science in Mechanical Eng...'
+2026-11-17 17:08:12,889 - INFO -     Successfully parsed date with local BD time: 2026-10-15 17:08:12+00:00
+2026-11-17 17:08:12,889 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Mechanical Eng...', Link='https://aust.edu/notice/3457', Date='2026-10-15 17:08:12+00:00', GUID='https://aust.edu/notice/3457'
+2026-11-17 17:08:12,890 - INFO -   Assembled date string: 'Oct 11 2026' for title 'Notification (Durga Puja)'
+2026-11-17 17:08:12,890 - INFO -     Successfully parsed date with local BD time: 2026-10-11 17:08:12+00:00
+2026-11-17 17:08:12,890 - INFO -   -> Found notice: Title='Notification (Durga Puja)', Link='https://aust.edu/notice/3451', Date='2026-10-11 17:08:12+00:00', GUID='https://aust.edu/notice/3451'
+2026-11-17 17:08:12,890 - INFO -   Assembled date string: 'Oct 11 2026' for title 'Graduate Notification: Master of Science in Electrical and E...'
+2026-11-17 17:08:12,890 - INFO -     Successfully parsed date with local BD time: 2026-10-11 17:08:12+00:00
+2026-11-17 17:08:12,890 - INFO -   -> Found notice: Title='Graduate Notification: Master of Science in Electrical and E...', Link='https://aust.edu/notice/3448', Date='2026-10-11 17:08:12+00:00', GUID='https://aust.edu/notice/3448'
+2026-11-17 17:08:12,891 - INFO -   Assembled date string: 'Oct 08 2026' for title 'Office Order'
+2026-11-17 17:08:12,891 - INFO -     Successfully parsed date with local BD time: 2026-10-08 17:08:12+00:00
+2026-11-17 17:08:12,891 - INFO -   -> Found notice: Title='Office Order', Link='https://aust.edu/notice/3446', Date='2026-10-08 17:08:12+00:00', GUID='https://aust.edu/notice/3446'
+2026-11-17 17:08:12,891 - INFO -   Assembled date string: 'Oct 05 2026' for title 'Semester Final Examination Routine: Fall2025 (MS in Mathemat...'
+2026-11-17 17:08:12,891 - INFO -     Successfully parsed date with local BD time: 2026-10-05 17:08:12+00:00
+2026-11-17 17:08:12,891 - INFO -   -> Found notice: Title='Semester Final Examination Routine: Fall2025 (MS in Mathemat...', Link='https://aust.edu/notice/3444', Date='2026-10-05 17:08:12+00:00', GUID='https://aust.edu/notice/3444'
+2026-11-17 17:08:12,892 - INFO -   Assembled date string: 'Sep 29 2026' for title 'Notification regarding Eligible Criteria to sit for the exam...'
+2026-11-17 17:08:12,892 - INFO -     Successfully parsed date with local BD time: 2026-09-29 17:08:12+00:00
+2026-11-17 17:08:12,892 - INFO -   -> Found notice: Title='Notification regarding Eligible Criteria to sit for the exam...', Link='https://aust.edu/notice/3438', Date='2026-09-29 17:08:12+00:00', GUID='https://aust.edu/notice/3438'
+2026-11-17 17:08:12,892 - INFO -   Assembled date string: 'Sep 24 2026' for title 'Farewell Ceremony for Outgoing Students of Fall Semester-202...'
+2026-11-17 17:08:12,892 - INFO -     Successfully parsed date with local BD time: 2026-09-24 17:08:12+00:00
+2026-11-17 17:08:12,892 - INFO -   -> Found notice: Title='Farewell Ceremony for Outgoing Students of Fall Semester-202...', Link='https://aust.edu/notice/3433', Date='2026-09-24 17:08:12+00:00', GUID='https://aust.edu/notice/3433'
+2026-11-17 17:08:12,893 - INFO -   Assembled date string: 'Sep 24 2026' for title 'TENDER INVITATION'
+2026-11-17 17:08:12,893 - INFO -     Successfully parsed date with local BD time: 2026-09-24 17:08:12+00:00
+2026-11-17 17:08:12,893 - INFO -   -> Found notice: Title='TENDER INVITATION', Link='https://aust.edu/notice/3432', Date='2026-09-24 17:08:12+00:00', GUID='https://aust.edu/notice/3432'
+2026-11-17 17:08:12,893 - INFO -   Assembled date string: 'Sep 17 2026' for title 'Extension of the Submission Deadline (Call for Research Prop...'
+2026-11-17 17:08:12,893 - INFO -     Successfully parsed date with local BD time: 2026-09-17 17:08:12+00:00
+2026-11-17 17:08:12,894 - INFO -   -> Found notice: Title='Extension of the Submission Deadline (Call for Research Prop...', Link='https://aust.edu/notice/3428', Date='2026-09-17 17:08:12+00:00', GUID='https://aust.edu/notice/3428'
+2026-11-17 17:08:12,894 - INFO -   Assembled date string: 'Sep 17 2026' for title 'Routine for Semester Final Examination (MBA & EMBA Programs)...'
+2026-11-17 17:08:12,894 - INFO -     Successfully parsed date with local BD time: 2026-09-17 17:08:12+00:00
+2026-11-17 17:08:12,894 - INFO -   -> Found notice: Title='Routine for Semester Final Examination (MBA & EMBA Programs)...', Link='https://aust.edu/notice/3425', Date='2026-09-17 17:08:12+00:00', GUID='https://aust.edu/notice/3425'
+2026-11-17 17:08:12,894 - INFO -   Assembled date string: 'Sep 16 2026' for title 'Schedule of Semester Final Examinations: Fall 2025'
+2026-11-17 17:08:12,895 - INFO -     Successfully parsed date with local BD time: 2026-09-16 17:08:12+00:00
+2026-11-17 17:08:12,895 - INFO -   -> Found notice: Title='Schedule of Semester Final Examinations: Fall 2025', Link='https://aust.edu/notice/3424', Date='2026-09-16 17:08:12+00:00', GUID='https://aust.edu/notice/3424'
+2026-11-17 17:08:12,895 - INFO -   Assembled date string: 'Sep 16 2026' for title 'Notification: Carry, Imporvement Application, Fall 2025'
+2026-11-17 17:08:12,895 - INFO -     Successfully parsed date with local BD time: 2026-09-16 17:08:12+00:00
+2026-11-17 17:08:12,895 - INFO -   -> Found notice: Title='Notification: Carry, Imporvement Application, Fall 2025', Link='https://aust.edu/notice/3423', Date='2026-09-16 17:08:12+00:00', GUID='https://aust.edu/notice/3423'
+2026-11-17 17:08:12,895 - INFO -   Assembled date string: 'Sep 15 2026' for title 'Graduate Notification: Bachelor of Science in Industrial and...'
+2026-11-17 17:08:12,896 - INFO -     Successfully parsed date with local BD time: 2026-09-15 17:08:12+00:00
+2026-11-17 17:08:12,896 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Industrial and...', Link='https://aust.edu/notice/3422', Date='2026-09-15 17:08:12+00:00', GUID='https://aust.edu/notice/3422'
+2026-11-17 17:08:12,896 - INFO -   Assembled date string: 'Sep 15 2026' for title 'Graduate Notification: Bachelor of Science in Electrical and...'
+2026-11-17 17:08:12,896 - INFO -     Successfully parsed date with local BD time: 2026-09-15 17:08:12+00:00
+2026-11-17 17:08:12,896 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Electrical and...', Link='https://aust.edu/notice/3421', Date='2026-09-15 17:08:12+00:00', GUID='https://aust.edu/notice/3421'
+2026-11-17 17:08:12,897 - INFO -   Assembled date string: 'Sep 14 2026' for title 'Tuition Award: AUST ONE BANK Distressed Students' Welfare Fu...'
+2026-11-17 17:08:12,897 - INFO -     Successfully parsed date with local BD time: 2026-09-14 17:08:12+00:00
+2026-11-17 17:08:12,897 - INFO -   -> Found notice: Title='Tuition Award: AUST ONE BANK Distressed Students' Welfare Fu...', Link='https://aust.edu/notice/3420', Date='2026-09-14 17:08:12+00:00', GUID='https://aust.edu/notice/3420'
+2026-11-17 17:08:12,897 - INFO -   Assembled date string: 'Sep 10 2026' for title 'Graduate Notification: Bachelor of Science in Electrical and...'
+2026-11-17 17:08:12,897 - INFO -     Successfully parsed date with local BD time: 2026-09-10 17:08:12+00:00
+2026-11-17 17:08:12,897 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Electrical and...', Link='https://aust.edu/notice/3418', Date='2026-09-10 17:08:12+00:00', GUID='https://aust.edu/notice/3418'
+2026-11-17 17:08:12,898 - INFO -   Assembled date string: 'Sep 08 2026' for title 'Graduate Notification: Bachelor of Science in Electrical and...'
+2026-11-17 17:08:12,898 - INFO -     Successfully parsed date with local BD time: 2026-09-08 17:08:12+00:00
+2026-11-17 17:08:12,898 - INFO -   -> Found notice: Title='Graduate Notification: Bachelor of Science in Electrical and...', Link='https://aust.edu/notice/3417', Date='2026-09-08 17:08:12+00:00', GUID='https://aust.edu/notice/3417'
+2026-11-17 17:08:12,898 - INFO -   Assembled date string: 'Sep 03 2026' for title 'নোটিশ  (শিক্ষা প্রতিষ্ঠানের বুলিং ও র‍্যাগিং-এর মতো সামাজিক...'
+2026-11-17 17:08:12,898 - INFO -     Successfully parsed date with local BD time: 2026-09-03 17:08:12+00:00
+2026-11-17 17:08:12,898 - INFO -   -> Found notice: Title='নোটিশ  (শিক্ষা প্রতিষ্ঠানের বুলিং ও র‍্যাগিং-এর মতো সামাজিক...', Link='https://aust.edu/notice/3410', Date='2026-09-03 17:08:12+00:00', GUID='https://aust.edu/notice/3410'
+2026-11-17 17:08:12,898 - INFO -   Assembled date string: 'Sep 03 2026' for title 'NOTIFICATION: University will remain closed on 04 September...'
+2026-11-17 17:08:12,899 - INFO -     Successfully parsed date with local BD time: 2026-09-03 17:08:12+00:00
+2026-11-17 17:08:12,899 - INFO -   -> Found notice: Title='NOTIFICATION: University will remain closed on 04 September...', Link='https://aust.edu/notice/3409', Date='2026-09-03 17:08:12+00:00', GUID='https://aust.edu/notice/3409'
+2026-11-17 17:08:12,899 - INFO -   Assembled date string: 'Sep 02 2026' for title 'Notification: Tuition Award (Siblings)'
+2026-11-17 17:08:12,899 - INFO -     Successfully parsed date with local BD time: 2026-09-02 17:08:12+00:00
+2026-11-17 17:08:12,899 - INFO -   -> Found notice: Title='Notification: Tuition Award (Siblings)', Link='https://aust.edu/notice/3406', Date='2026-09-02 17:08:12+00:00', GUID='https://aust.edu/notice/3406'
+2026-11-17 17:08:12,899 - INFO - Finished parsing. Extracted 36 valid notices.
+2026-11-17 17:08:12,900 - INFO - Loading existing GUIDs from feed.xml...
+2026-11-17 17:08:12,901 - INFO - Loaded 50 existing GUIDs.
+2026-11-17 17:08:12,901 - INFO - New notice found: GUID https://aust.edu/notice/3489 Title: Mashiur Rahman and Amina Rahman Scholarship
+2026-11-17 17:08:12,901 - INFO - New notices detected based on GUID comparison. Generating updated RSS feed.
+2026-11-17 17:08:12,901 - INFO - Generating new RSS feed...
+2026-11-17 17:08:12,901 - INFO - Adding 36 new item(s) based on GUID comparison.
+2026-11-17 17:08:12,901 - INFO - Loading max 14 old items from existing feed...
+2026-11-17 17:08:12,903 - INFO - Added 14 old items.
+2026-11-17 17:08:12,903 - INFO - Sorting 50 combined items by publication date (newest first)...
+2026-11-17 17:08:12,903 - INFO - Added 50 total items to the feed XML.
+2026-11-17 17:08:12,925 - INFO - RSS feed successfully generated and saved to feed.xml
+2026-11-17 17:08:12,925 - INFO - Process finished. Duration: 0:00:01.485274
