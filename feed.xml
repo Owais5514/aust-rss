@@ -7,9 +7,23 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 16:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:44:21 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261118.164549</version>
+    <version>1.0.20261122.154421</version>
+    <item>
+      <title>Academic Calendar (Spring 2026 Semester)</title>
+      <link>https://aust.edu/notice/3498</link>
+      <description>As per report and approval of the 46th m...Read More</description>
+      <pubDate>Sun, 22 Nov 2026 15:44:21 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3498</guid>
+    </item>
+    <item>
+      <title>Office Order - Holidays List For 2027</title>
+      <link>https://aust.edu/notice/3497</link>
+      <description>....Read More</description>
+      <pubDate>Sun, 22 Nov 2026 15:44:21 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3497</guid>
+    </item>
     <item>
       <title>Graduate Notification: Bachelor of Science in Mechanical Eng...</title>
       <link>https://aust.edu/notice/3496</link>
@@ -345,20 +359,6 @@
       <description>In continuation of the notification no. ...Read More</description>
       <pubDate>Tue, 15 Sep 2026 17:08:12 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3422</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Electrical and...</title>
-      <link>https://aust.edu/notice/3421</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 15 Sep 2026 17:08:12 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3421</guid>
-    </item>
-    <item>
-      <title>Tuition Award: AUST ONE BANK Distressed Students' Welfare Fu...</title>
-      <link>https://aust.edu/notice/3420</link>
-      <description>It is hereby notified for the informatio...Read More</description>
-      <pubDate>Mon, 14 Sep 2026 17:08:12 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3420</guid>
     </item>
   </channel>
 </rss>
