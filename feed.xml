@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 15:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:33:59 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261122.154421</version>
+    <version>1.0.20261123.193359</version>
+    <item>
+      <title>Research Assistant for AUST Internal Research Project</title>
+      <link>https://aust.edu/notice/3501</link>
+      <description>Applications are invited from qualified ...Read More</description>
+      <pubDate>Sun, 22 Nov 2026 19:33:59 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3501</guid>
+    </item>
     <item>
       <title>Academic Calendar (Spring 2026 Semester)</title>
       <link>https://aust.edu/notice/3498</link>
@@ -352,13 +359,6 @@
       <description>The undergraduate students (from 4th yea...Read More</description>
       <pubDate>Wed, 16 Sep 2026 17:08:12 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3423</guid>
-    </item>
-    <item>
-      <title>Graduate Notification: Bachelor of Science in Industrial and...</title>
-      <link>https://aust.edu/notice/3422</link>
-      <description>In continuation of the notification no. ...Read More</description>
-      <pubDate>Tue, 15 Sep 2026 17:08:12 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3422</guid>
     </item>
   </channel>
 </rss>
