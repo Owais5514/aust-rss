@@ -7,9 +7,16 @@
     <description>Latest notices from the Ahsanullah University of Science and Technology notice board.</description>
     <language>en-US</language>
     <copyright>Ahsanullah University of Science and Technology</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 19:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:09:02 +0000</lastBuildDate>
     <generator>Python RSS Generator Script</generator>
-    <version>1.0.20261123.193359</version>
+    <version>1.0.20261124.190902</version>
+    <item>
+      <title>Office Order regarding Social Media Coordinators</title>
+      <link>https://aust.edu/notice/3503</link>
+      <description>It is hereby notified for the informatio...Read More</description>
+      <pubDate>Mon, 23 Nov 2026 19:09:02 +0000</pubDate>
+      <guid isPermaLink="true">https://aust.edu/notice/3503</guid>
+    </item>
     <item>
       <title>Research Assistant for AUST Internal Research Project</title>
       <link>https://aust.edu/notice/3501</link>
@@ -352,13 +359,6 @@
       <description>It is hereby notified for information of...Read More</description>
       <pubDate>Wed, 16 Sep 2026 17:08:12 +0000</pubDate>
       <guid isPermaLink="true">https://aust.edu/notice/3424</guid>
-    </item>
-    <item>
-      <title>Notification: Carry, Imporvement Application, Fall 2025</title>
-      <link>https://aust.edu/notice/3423</link>
-      <description>The undergraduate students (from 4th yea...Read More</description>
-      <pubDate>Wed, 16 Sep 2026 17:08:12 +0000</pubDate>
-      <guid isPermaLink="true">https://aust.edu/notice/3423</guid>
     </item>
   </channel>
 </rss>
