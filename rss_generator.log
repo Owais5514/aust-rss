@@ -193998,3 +193998,15 @@
 2026-11-27 05:34:06,124 - INFO - No notices were fetched from the source URL.
 2026-11-27 05:34:06,124 - INFO - RSS feed generation skipped.
 2026-11-27 05:34:06,124 - INFO - Process finished. Duration: 0:00:01.208374
+2026-11-27 17:41:37,649 - INFO - Starting AUST notice scraping process...
+2026-11-27 17:41:37,649 - INFO - Local time: 2026-11-27 17:41:37  (Timezone Offset: UTC+06:00)
+2026-11-27 17:41:37,649 - INFO - Fetching notices from https://aust.edu/notice
+2026-11-27 17:41:38,537 - INFO - Successfully fetched page. Status code: 200
+2026-11-27 17:41:38,537 - INFO - Parsing HTML content using lxml...
+2026-11-27 17:41:38,538 - INFO - Looking for notice elements using selector: 'div.card-info'
+2026-11-27 17:41:38,631 - ERROR - No notice elements found using selector 'div.card-info'.
+2026-11-27 17:41:38,632 - INFO - Loading existing GUIDs from feed.xml...
+2026-11-27 17:41:38,633 - INFO - Loaded 50 existing GUIDs.
+2026-11-27 17:41:38,633 - INFO - No notices were fetched from the source URL.
+2026-11-27 17:41:38,634 - INFO - RSS feed generation skipped.
+2026-11-27 17:41:38,634 - INFO - Process finished. Duration: 0:00:00.984983
